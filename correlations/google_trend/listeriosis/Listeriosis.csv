@@ -1,0 +1,522 @@
+Week,myalgia,listeriosis,listeria monocytogenes,listeria
+2010-11-07 - 2010-11-13,71,0,9,1
+2010-11-14 - 2010-11-20,80,10,12,1
+2010-11-21 - 2010-11-27,59,8,11,1
+2010-11-28 - 2010-12-04,75,8,11,1
+2010-12-05 - 2010-12-11,76,8,8,1
+2010-12-12 - 2010-12-18,64,8,8,1
+2010-12-19 - 2010-12-25,61,6,9,1
+2010-12-26 - 2011-01-01,67,6,9,2
+2011-01-02 - 2011-01-08,75,6,9,1
+2011-01-09 - 2011-01-15,69,6,9,1
+2011-01-16 - 2011-01-22,79,7,9,1
+2011-01-23 - 2011-01-29,74,8,11,1
+2011-01-30 - 2011-02-05,77,8,8,2
+2011-02-06 - 2011-02-12,100,8,8,1
+2011-02-13 - 2011-02-19,84,6,7,1
+2011-02-20 - 2011-02-26,84,8,8,1
+2011-02-27 - 2011-03-05,79,7,10,1
+2011-03-06 - 2011-03-12,78,7,8,1
+2011-03-13 - 2011-03-19,73,7,8,1
+2011-03-20 - 2011-03-26,88,7,8,1
+2011-03-27 - 2011-04-02,82,7,8,1
+2011-04-03 - 2011-04-09,85,6,8,2
+2011-04-10 - 2011-04-16,94,6,11,2
+2011-04-17 - 2011-04-23,88,8,9,1
+2011-04-24 - 2011-04-30,86,8,10,1
+2011-05-01 - 2011-05-07,91,8,10,2
+2011-05-08 - 2011-05-14,74,8,8,1
+2011-05-15 - 2011-05-21,73,6,7,2
+2011-05-22 - 2011-05-28,68,6,7,2
+2011-05-29 - 2011-06-04,76,6,8,1
+2011-06-05 - 2011-06-11,78,7,7,1
+2011-06-12 - 2011-06-18,79,7,8,1
+2011-06-19 - 2011-06-25,78,7,9,1
+2011-06-26 - 2011-07-02,81,7,9,1
+2011-07-03 - 2011-07-09,73,6,9,1
+2011-07-10 - 2011-07-16,67,6,7,1
+2011-07-17 - 2011-07-23,78,6,7,1
+2011-07-24 - 2011-07-30,76,6,7,2
+2011-07-31 - 2011-08-06,77,6,7,2
+2011-08-07 - 2011-08-13,66,6,8,4
+2011-08-14 - 2011-08-20,77,6,9,34
+2011-08-21 - 2011-08-27,72,6,12,19
+2011-08-28 - 2011-09-03,80,7,7,100
+2011-09-04 - 2011-09-10,84,9,8,39
+2011-09-11 - 2011-09-17,87,59,44,21
+2011-09-18 - 2011-09-24,97,32,27,13
+2011-09-25 - 2011-10-01,93,100,100,8
+2011-10-02 - 2011-10-08,83,40,36,8
+2011-10-09 - 2011-10-15,94,22,27,5
+2011-10-16 - 2011-10-22,85,16,16,5
+2011-10-23 - 2011-10-29,87,12,12,5
+2011-10-30 - 2011-11-05,93,13,10,5
+2011-11-06 - 2011-11-12,85,10,10,5
+2011-11-13 - 2011-11-19,85,7,8,4
+2011-11-20 - 2011-11-26,60,6,8,3
+2011-11-27 - 2011-12-03,93,8,9,4
+2011-12-04 - 2011-12-10,79,8,10,4
+2011-12-11 - 2011-12-17,75,5,9,4
+2011-12-18 - 2011-12-24,65,6,6,2
+2011-12-25 - 2011-12-31,56,6,6,2
+2012-01-01 - 2012-01-07,70,6,6,2
+2012-01-08 - 2012-01-14,79,5,6,2
+2012-01-15 - 2012-01-21,78,6,6,1
+2012-01-22 - 2012-01-28,78,6,8,2
+2012-01-29 - 2012-02-04,94,7,9,2
+2012-02-05 - 2012-02-11,82,7,9,1
+2012-02-12 - 2012-02-18,78,7,8,1
+2012-02-19 - 2012-02-25,90,6,7,1
+2012-02-26 - 2012-03-03,87,5,9,1
+2012-03-04 - 2012-03-10,79,7,7,1
+2012-03-11 - 2012-03-17,85,6,8,2
+2012-03-18 - 2012-03-24,90,5,8,1
+2012-03-25 - 2012-03-31,84,6,8,1
+2012-04-01 - 2012-04-07,76,7,7,2
+2012-04-08 - 2012-04-14,86,7,9,2
+2012-04-15 - 2012-04-21,82,7,8,2
+2012-04-22 - 2012-04-28,89,5,9,5
+2012-04-29 - 2012-05-05,77,6,10,2
+2012-05-06 - 2012-05-12,77,6,6,1
+2012-05-13 - 2012-05-19,79,6,10,1
+2012-05-20 - 2012-05-26,84,7,17,1
+2012-05-27 - 2012-06-02,74,6,6,3
+2012-06-03 - 2012-06-09,81,6,6,2
+2012-06-10 - 2012-06-16,70,6,7,2
+2012-06-17 - 2012-06-23,74,5,6,2
+2012-06-24 - 2012-06-30,69,6,8,2
+2012-07-01 - 2012-07-07,59,8,9,4
+2012-07-08 - 2012-07-14,59,5,8,4
+2012-07-15 - 2012-07-21,65,6,8,7
+2012-07-22 - 2012-07-28,79,4,7,3
+2012-07-29 - 2012-08-04,72,4,15,2
+2012-08-05 - 2012-08-11,76,7,13,2
+2012-08-12 - 2012-08-18,77,7,14,3
+2012-08-19 - 2012-08-25,84,5,9,3
+2012-08-26 - 2012-09-01,88,7,7,3
+2012-09-02 - 2012-09-08,92,8,6,4
+2012-09-09 - 2012-09-15,99,7,12,2
+2012-09-16 - 2012-09-22,89,7,11,2
+2012-09-23 - 2012-09-29,98,6,8,2
+2012-09-30 - 2012-10-06,92,7,14,2
+2012-10-07 - 2012-10-13,86,5,10,1
+2012-10-14 - 2012-10-20,87,6,9,2
+2012-10-21 - 2012-10-27,94,7,7,2
+2012-10-28 - 2012-11-03,77,5,7,2
+2012-11-04 - 2012-11-10,80,5,7,2
+2012-11-11 - 2012-11-17,77,5,8,2
+2012-11-18 - 2012-11-24,70,4,6,1
+2012-11-25 - 2012-12-01,86,6,7,2
+2012-12-02 - 2012-12-08,78,6,9,1
+2012-12-09 - 2012-12-15,80,5,7,2
+2012-12-16 - 2012-12-22,64,4,7,1
+2012-12-23 - 2012-12-29,49,4,7,1
+2012-12-30 - 2013-01-05,56,5,7,2
+2013-01-06 - 2013-01-12,77,5,7,1
+2013-01-13 - 2013-01-19,79,5,4,3
+2013-01-20 - 2013-01-26,74,5,6,2
+2013-01-27 - 2013-02-02,89,4,8,1
+2013-02-03 - 2013-02-09,80,6,8,1
+2013-02-10 - 2013-02-16,81,7,9,1
+2013-02-17 - 2013-02-23,79,6,9,1
+2013-02-24 - 2013-03-02,88,6,8,1
+2013-03-03 - 2013-03-09,73,6,5,1
+2013-03-10 - 2013-03-16,73,5,7,2
+2013-03-17 - 2013-03-23,75,6,8,2
+2013-03-24 - 2013-03-30,74,6,6,2
+2013-03-31 - 2013-04-06,82,5,7,1
+2013-04-07 - 2013-04-13,80,7,10,1
+2013-04-14 - 2013-04-20,84,10,14,1
+2013-04-21 - 2013-04-27,78,8,8,1
+2013-04-28 - 2013-05-04,80,7,10,1
+2013-05-05 - 2013-05-11,72,5,7,1
+2013-05-12 - 2013-05-18,71,4,5,1
+2013-05-19 - 2013-05-25,70,5,4,1
+2013-05-26 - 2013-06-01,72,6,4,1
+2013-06-02 - 2013-06-08,76,6,6,3
+2013-06-09 - 2013-06-15,73,5,6,3
+2013-06-16 - 2013-06-22,80,5,5,1
+2013-06-23 - 2013-06-29,72,5,6,1
+2013-06-30 - 2013-07-06,66,5,10,1
+2013-07-07 - 2013-07-13,76,6,8,1
+2013-07-14 - 2013-07-20,76,5,4,1
+2013-07-21 - 2013-07-27,83,5,6,2
+2013-07-28 - 2013-08-03,72,5,5,1
+2013-08-04 - 2013-08-10,73,5,5,1
+2013-08-11 - 2013-08-17,72,5,5,2
+2013-08-18 - 2013-08-24,73,4,7,1
+2013-08-25 - 2013-08-31,79,6,6,4
+2013-09-01 - 2013-09-07,81,6,6,2
+2013-09-08 - 2013-09-14,87,7,9,2
+2013-09-15 - 2013-09-21,96,5,6,2
+2013-09-22 - 2013-09-28,80,4,9,5
+2013-09-29 - 2013-10-05,87,5,9,4
+2013-10-06 - 2013-10-12,90,6,8,2
+2013-10-13 - 2013-10-19,88,5,7,2
+2013-10-20 - 2013-10-26,97,7,17,2
+2013-10-27 - 2013-11-02,85,7,15,1
+2013-11-03 - 2013-11-09,84,4,10,1
+2013-11-10 - 2013-11-16,93,6,10,1
+2013-11-17 - 2013-11-23,77,7,10,1
+2013-11-24 - 2013-11-30,64,6,6,1
+2013-12-01 - 2013-12-07,81,6,7,1
+2013-12-08 - 2013-12-14,75,5,8,1
+2013-12-15 - 2013-12-21,62,5,5,1
+2013-12-22 - 2013-12-28,51,4,5,1
+2013-12-29 - 2014-01-04,56,4,5,2
+2014-01-05 - 2014-01-11,70,4,5,1
+2014-01-12 - 2014-01-18,78,5,7,1
+2014-01-19 - 2014-01-25,73,5,6,2
+2014-01-26 - 2014-02-01,86,6,9,2
+2014-02-02 - 2014-02-08,84,6,7,
+2014-02-09 - 2014-02-15,85,4,7,
+2014-02-16 - 2014-02-22,89,6,9,
+2014-02-23 - 2014-03-01,86,6,10,listeria
+2014-03-02 - 2014-03-08,90,4,8,100
+2014-03-09 - 2014-03-15,95,6,12,59
+2014-03-16 - 2014-03-22,90,5,10,46
+2014-03-23 - 2014-03-29,83,7,12,42
+2014-03-30 - 2014-04-05,90,6,10,41
+,,,,41
+,,,,38
+Top subregions for myalgia,,,,37
+Subregion,myalgia,listeriosis,listeria monocytogenes,36
+Tennessee,100,100,100,35
+Alabama,96,74,99,35
+Kansas,95,74,84,34
+Iowa,95,65,79,34
+Minnesota,95,61,66,34
+Pennsylvania,94,54,66,34
+Indiana,93,53,61,34
+Oklahoma,93,53,61,33
+Arizona,91,0,60,33
+Kentucky,91,0,0,32
+Missouri,90,0,0,32
+Ohio,89,0,0,32
+Wisconsin,89,0,0,31
+Connecticut,89,0,0,31
+South Carolina,88,0,0,30
+Maryland,88,0,0,30
+Louisiana,84,0,0,30
+Massachusetts,83,0,0,30
+Michigan,80,0,0,29
+North Carolina,78,0,0,29
+Florida,76,0,0,29
+Illinois,75,0,0,29
+Georgia,73,0,0,28
+Washington,73,0,0,28
+Virginia,72,0,0,28
+Oregon,71,0,0,27
+New Jersey,67,0,0,27
+Texas,66,0,0,27
+New York,66,0,0,26
+Colorado,66,0,0,26
+District of Columbia,65,0,0,26
+California,63,0,0,26
+Alaska,0,0,0,25
+Arkansas,0,0,0,25
+Delaware,0,0,0,23
+Hawaii,0,0,0,0
+Idaho,0,0,0,0
+Maine,0,0,0,0
+Mississippi,0,0,0,0
+Montana,0,0,0,0
+North Dakota,0,0,0,0
+Nebraska,0,0,0,0
+New Hampshire,0,0,0,
+New Mexico,0,0,0,
+Nevada,0,0,0,
+Rhode Island,0,0,0,listeria
+South Dakota,0,0,0,100
+Utah,0,0,0,34
+Vermont,0,0,0,31
+West Virginia,0,0,0,30
+Wyoming,0,0,0,29
+,,,,28
+,,,,28
+Top metros for myalgia,,,,28
+Metro,myalgia,,,28
+Los Angeles CA,100,,,28
+New York NY,91,listeriosis,listeria monocytogenes,27
+Portland-Auburn ME,0,100,100,26
+Binghamton NY,0,,,25
+Macon GA,0,,,23
+Philadelphia PA,0,,,0
+Detroit MI,0,,,0
+Boston MA-Manchester NH,0,100,100,0
+Savannah GA,0,65,95,0
+Pittsburgh PA,0,30,50,0
+Ft. Wayne IN,0,30,50,0
+Cleveland-Akron (Canton) OH,0,25,,0
+Washington DC (Hagerstown MD),0,25,,0
+Baltimore MD,0,20,,0
+Flint-Saginaw-Bay City MI,0,20,,0
+Buffalo NY,0,20,+120%,0
+Cincinnati OH,0,,+110%,0
+Erie PA,0,,+100%,0
+Charlotte NC,0,,,0
+Greensboro-High Point-Winston Salem NC,0,,,0
+Charleston SC,0,+170%,,0
+Augusta GA,0,+100%,,0
+Providence RI-New Bedford MA,0,+100%,,0
+Columbus GA,0,+100%,,0
+Burlington VT-Plattsburgh NY,0,+90%,,0
+Atlanta GA,0,+60%,,0
+Albany GA,0,+50%,,0
+Utica NY,0,+40%,,0
+Indianapolis IN,0,,,0
+Miami-Ft. Lauderdale FL,0,,,0
+Louisville KY,0,,,0
+Tallahassee FL-Thomasville GA,0,,,0
+Tri-Cities TN-VA,0,,,0
+Albany-Schenectady-Troy NY,0,,,0
+Hartford & New Haven CT,0,,,0
+Orlando-Daytona Beach-Melbourne FL,0,,,0
+Columbus OH,0,,,0
+Youngstown OH,0,,,0
+Bangor ME,0,,,0
+Rochester NY,0,,,0
+Tampa-St. Petersburg (Sarasota) FL,0,,,0
+Traverse City-Cadillac MI,0,,,0
+Lexington KY,0,,,0
+Dayton OH,0,,,0
+Springfield-Holyoke MA,0,,,0
+Norfolk-Portsmouth-Newport News VA,0,,,0
+Greenville-New Bern-Washington NC,0,,,0
+Columbia SC,0,,,0
+Toledo OH,0,,,0
+West Palm Beach-Ft. Pierce FL,0,,,0
+Watertown NY,0,,,0
+Wilmington NC,0,,,0
+Lansing MI,0,,,0
+Presque Isle ME,0,,,0
+Marquette MI,0,,,0
+Wheeling WV-Steubenville OH,0,,,0
+Syracuse NY,0,,,0
+Richmond-Petersburg VA,0,,,0
+Knoxville TN,0,,,0
+Lima OH,0,,,0
+Bluefield-Beckley-Oak Hill WV,0,,,0
+Raleigh-Durham (Fayetteville) NC,0,,,0
+Jacksonville FL,0,,,0
+Grand Rapids-Kalamazoo-Battle Creek MI,0,,,0
+Charleston-Huntington WV,0,,,0
+Elmira NY,0,,,0
+Harrisburg-Lancaster-Lebanon-York PA,0,,,0
+Greenville-Spartanburg SC-Asheville NC-Anderson SC,0,,,0
+Harrisonburg VA,0,,,0
+Florence-Myrtle Beach SC,0,,,0
+Ft. Myers-Naples FL,0,,,0
+Roanoke-Lynchburg VA,0,,,0
+Johnstown-Altoona PA,0,,,0
+Chattanooga TN,0,,,0
+Salisbury MD,0,,,0
+Wilkes Barre-Scranton PA,0,,,0
+Terre Haute IN,0,,,0
+Lafayette IN,0,,,0
+Alpena MI,0,,,0
+Charlottesville VA,0,,,0
+South Bend-Elkhart IN,0,,,0
+Gainesville FL,0,,,0
+Zanesville OH,0,,,0
+Parkersburg WV,0,,,0
+Clarksburg-Weston WV,0,,,0
+Corpus Christi TX,0,,,0
+Chicago IL,0,,,0
+Joplin MO-Pittsburg KS,0,,,0
+Columbia-Jefferson City MO,0,,,0
+Topeka KS,0,,,0
+Dothan AL,0,,,0
+St. Louis MO,0,,,0
+Rockford IL,0,,,0
+Rochester MN-Mason City IA-Austin MN,0,,,0
+Shreveport LA,0,,,0
+Minneapolis-St. Paul MN,0,,,0
+Kansas City MO,0,,,0
+Milwaukee WI,0,,,0
+Houston TX,0,,,0
+Springfield MO,0,,,0
+New Orleans LA,0,,,0
+Dallas-Ft. Worth TX,0,,,0
+Sioux City IA,0,,,0
+Waco-Temple-Bryan TX,0,,,0
+Victoria TX,0,,,0
+Wichita Falls TX & Lawton OK,0,,,0
+Monroe LA-El Dorado AR,0,,,0
+Birmingham AL,0,,,0
+Ottumwa IA-Kirksville MO,0,,,0
+Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,0,,,0
+Odessa-Midland TX,0,,,0
+Amarillo TX,0,,,0
+Austin TX,0,,,0
+Harlingen-Weslaco-Brownsville-McAllen TX,0,,,0
+Cedar Rapids-Waterloo-Iowa City & Dubuque IA,0,,,0
+St. Joseph MO,0,,,0
+Jackson TN,0,,,0
+Memphis TN,0,,,0
+San Antonio TX,0,,,0
+Lafayette LA,0,,,0
+Lake Charles LA,0,,,0
+Alexandria LA,0,,,0
+Greenwood-Greenville MS,0,,,0
+Champaign & Springfield-Decatur IL,0,,,0
+Evansville IN,0,,,0
+Oklahoma City OK,0,,,0
+Lubbock TX,0,,,0
+Omaha NE,0,,,0
+Panama City FL,0,,,0
+Sherman TX-Ada OK,0,,,0
+Green Bay-Appleton WI,0,,,0
+Nashville TN,0,,,0
+San Angelo TX,0,,,0
+Abilene-Sweetwater TX,0,,,0
+Madison WI,0,,,0
+Ft. Smith-Fayetteville-Springdale-Rogers AR,0,,,0
+Tulsa OK,0,,,0
+Columbus-Tupelo-West Point MS,0,,,0
+Peoria-Bloomington IL,0,,,0
+Duluth MN-Superior WI,0,,,0
+Wichita-Hutchinson KS,0,,,0
+Des Moines-Ames IA,0,,,0
+Davenport IA-Rock Island-Moline IL,0,,,0
+Mobile AL-Pensacola (Ft. Walton Beach) FL,0,,,0
+Minot-Bismarck-Dickinson(Williston) ND,0,,,0
+Huntsville-Decatur (Florence) AL,0,,,0
+Beaumont-Port Arthur TX,0,,,0
+Little Rock-Pine Bluff AR,0,,,0
+Montgomery (Selma) AL,0,,,0
+La Crosse-Eau Claire WI,0,,,0
+Wausau-Rhinelander WI,0,,,0
+Tyler-Longview(Lufkin & Nacogdoches) TX,0,,,0
+Hattiesburg-Laurel MS,0,,,0
+Meridian MS,0,,,0
+Baton Rouge LA,0,,,0
+Quincy IL-Hannibal MO-Keokuk IA,0,,,0
+Jackson MS,0,,,0
+Lincoln & Hastings-Kearney NE,0,,,0
+Fargo-Valley City ND,0,,,0
+Sioux Falls(Mitchell) SD,0,,,0
+Jonesboro AR,0,,,0
+Bowling Green KY,0,,,0
+Mankato MN,0,,,0
+North Platte NE,0,,,0
+Anchorage AK,0,,,0
+Honolulu HI,0,,,0
+Fairbanks AK,0,,,0
+Biloxi-Gulfport MS,0,,,0
+Juneau AK,0,,,0
+Laredo TX,0,,,0
+Denver CO,0,,,0
+Colorado Springs-Pueblo CO,0,,,0
+Phoenix AZ,0,,,0
+Butte-Bozeman MT,0,,,0
+Great Falls MT,0,,,0
+Billings MT,0,,,0
+Boise ID,0,,,0
+Idaho Falls-Pocatello ID,0,,,0
+Cheyenne WY-Scottsbluff NE,0,,,0
+Twin Falls ID,0,,,0
+Missoula MT,0,,,0
+Rapid City SD,0,,,0
+El Paso TX,0,,,0
+Helena MT,0,,,0
+Casper-Riverton WY,0,,,0
+Salt Lake City UT,0,,,0
+Yuma AZ-El Centro CA,0,,,0
+Grand Junction-Montrose CO,0,,,0
+Tucson (Sierra Vista) AZ,0,,,0
+Albuquerque-Santa Fe NM,0,,,0
+Glendive MT,0,,,0
+Bakersfield CA,0,,,0
+Eugene OR,0,,,0
+Eureka CA,0,,,0
+Palm Springs CA,0,,,0
+San Francisco-Oakland-San Jose CA,0,,,0
+Yakima-Pasco-Richland-Kennewick WA,0,,,0
+Reno NV,0,,,0
+Medford-Klamath Falls OR,0,,,0
+Seattle-Tacoma WA,0,,,0
+Portland OR,0,,,0
+Bend OR,0,,,
+San Diego CA,0,,,
+Monterey-Salinas CA,0,,,
+Las Vegas NV,0,,,listeria
+Santa Barbara-Santa Maria-San Luis Obispo CA,0,,,100
+Sacramento-Stockton-Modesto CA,0,,,98
+Fresno-Visalia CA,0,,,88
+Chico-Redding CA,0,,,61
+Spokane WA,0,,,54
+,,,,45
+,,,,38
+Top cities for myalgia,,,,37
+City,myalgia,,,37
+Philadelphia,100,,,34
+Portland,94,,,33
+Boston,90,,,33
+St. Louis,90,,,32
+Phoenix,81,,,31
+Minneapolis,81,,,30
+Seattle,69,,,
+Houston,67,,,
+San Diego,67,,,
+Austin,66,,,
+San Antonio,66,,,100
+Chicago,64,,,50
+Washington,61,,,30
+Atlanta,59,,,30
+Dallas,57,,,30
+,,,,25
+,,,,25
+,,,,25
+Top searches for myalgia,,,,15
+myalgia myositis,100,,,15
+myositis,100,,,10
+myalgia and myositis,55,,,10
+arthralgia,55,,,10
+arthralgia myalgia,50,,,10
+myalgia syndrome,45,,,10
+myalgia symptoms,45,,,10
+what is myalgia,40,,,10
+muscle myalgia,30,,,10
+fibro myalgia,30,,,10
+icd myalgia,30,,,10
+icd 9 myalgia,30,,,5
+eosinophilia,30,,,5
+eosinophilia myalgia,30,,,5
+eosinophilia myalgia syndrome,25,,,5
+myalgia definition,25,,,5
+myalgia treatment,15,,,5
+myalgia causes,15,,,5
+fiber myalgia,10,,,5
+define myalgia,10,,,5
+myalgia rheumatica,10,,,5
+statin myalgia,10,,,5
+myalgebra,10,,,5
+cervical myalgia,10,,,5
+chronic myalgia,10,,,5
+poly myalgia,10,,,5
+pelvic floor myalgia,10,,,5
+asthenia,10,,,5
+what is myositis,5,,,5
+myalgias,5,,,5
+viral myalgia,5,,,5
+729.1,5,,,5
+cervicalgia,5,,,5
+,,,,5
+,,,,5
+,,,,5
+Rising searches for myalgia,,,,5
+icd 9 myalgia,+300%,,,
+icd myalgia,+250%,,,
+eosinophilia myalgia syndrome,+130%,,,
+eosinophilia,+100%,,,
+eosinophilia myalgia,+100%,,,Breakout
+myalgia and myositis,+90%,,,Breakout
+what is myalgia,+90%,,,Breakout
+myalgia myositis,+70%,,,Breakout
+myositis,+70%,,,Breakout
+arthralgia,+50%,,,Breakout
+,,,,Breakout
+,,,,+300%
+,,,,+120%
+,,,,+90%

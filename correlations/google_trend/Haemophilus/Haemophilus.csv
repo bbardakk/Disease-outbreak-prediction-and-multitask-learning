@@ -1,0 +1,526 @@
+Week,influenza,haemophilus,hepatitis
+2010-12-05 - 2010-12-11,21,84,42
+2010-12-12 - 2010-12-18,20,90,40
+2010-12-19 - 2010-12-25,16,40,32
+2010-12-26 - 2011-01-01,17,48,32
+2011-01-02 - 2011-01-08,23,64,46
+2011-01-09 - 2011-01-15,22,68,40
+2011-01-16 - 2011-01-22,27,72,45
+2011-01-23 - 2011-01-29,34,79,43
+2011-01-30 - 2011-02-05,33,84,40
+2011-02-06 - 2011-02-12,37,85,43
+2011-02-13 - 2011-02-19,41,78,42
+2011-02-20 - 2011-02-26,38,84,42
+2011-02-27 - 2011-03-05,35,79,43
+2011-03-06 - 2011-03-12,30,80,45
+2011-03-13 - 2011-03-19,25,73,44
+2011-03-20 - 2011-03-26,22,87,42
+2011-03-27 - 2011-04-02,19,69,46
+2011-04-03 - 2011-04-09,18,83,47
+2011-04-10 - 2011-04-16,17,92,46
+2011-04-17 - 2011-04-23,14,93,44
+2011-04-24 - 2011-04-30,14,98,48
+2011-05-01 - 2011-05-07,13,100,46
+2011-05-08 - 2011-05-14,12,90,46
+2011-05-15 - 2011-05-21,12,69,45
+2011-05-22 - 2011-05-28,9,86,45
+2011-05-29 - 2011-06-04,9,59,42
+2011-06-05 - 2011-06-11,9,74,44
+2011-06-12 - 2011-06-18,8,64,42
+2011-06-19 - 2011-06-25,7,63,43
+2011-06-26 - 2011-07-02,8,60,42
+2011-07-03 - 2011-07-09,7,67,39
+2011-07-10 - 2011-07-16,7,69,43
+2011-07-17 - 2011-07-23,8,56,43
+2011-07-24 - 2011-07-30,7,66,47
+2011-07-31 - 2011-08-06,7,59,42
+2011-08-07 - 2011-08-13,8,65,45
+2011-08-14 - 2011-08-20,8,53,42
+2011-08-21 - 2011-08-27,9,59,40
+2011-08-28 - 2011-09-03,12,62,41
+2011-09-04 - 2011-09-10,13,59,38
+2011-09-11 - 2011-09-17,17,72,44
+2011-09-18 - 2011-09-24,18,76,48
+2011-09-25 - 2011-10-01,18,67,45
+2011-10-02 - 2011-10-08,19,74,44
+2011-10-09 - 2011-10-15,19,73,45
+2011-10-16 - 2011-10-22,18,84,46
+2011-10-23 - 2011-10-29,19,79,47
+2011-10-30 - 2011-11-05,19,84,48
+2011-11-06 - 2011-11-12,18,87,47
+2011-11-13 - 2011-11-19,18,76,46
+2011-11-20 - 2011-11-26,14,62,37
+2011-11-27 - 2011-12-03,18,91,44
+2011-12-04 - 2011-12-10,17,87,42
+2011-12-11 - 2011-12-17,14,83,40
+2011-12-18 - 2011-12-24,12,57,36
+2011-12-25 - 2011-12-31,10,47,34
+2012-01-01 - 2012-01-07,12,59,38
+2012-01-08 - 2012-01-14,14,65,44
+2012-01-15 - 2012-01-21,14,70,45
+2012-01-22 - 2012-01-28,16,72,45
+2012-01-29 - 2012-02-04,19,90,44
+2012-02-05 - 2012-02-11,18,84,46
+2012-02-12 - 2012-02-18,24,79,43
+2012-02-19 - 2012-02-25,24,81,56
+2012-02-26 - 2012-03-03,25,77,47
+2012-03-04 - 2012-03-10,27,82,47
+2012-03-11 - 2012-03-17,26,82,45
+2012-03-18 - 2012-03-24,24,76,44
+2012-03-25 - 2012-03-31,21,74,48
+2012-04-01 - 2012-04-07,17,67,44
+2012-04-08 - 2012-04-14,18,74,46
+2012-04-15 - 2012-04-21,17,99,47
+2012-04-22 - 2012-04-28,16,88,46
+2012-04-29 - 2012-05-05,16,85,46
+2012-05-06 - 2012-05-12,15,63,46
+2012-05-13 - 2012-05-19,13,65,53
+2012-05-20 - 2012-05-26,11,55,50
+2012-05-27 - 2012-06-02,10,52,45
+2012-06-03 - 2012-06-09,9,62,44
+2012-06-10 - 2012-06-16,9,66,45
+2012-06-17 - 2012-06-23,9,50,47
+2012-06-24 - 2012-06-30,8,57,43
+2012-07-01 - 2012-07-07,6,50,39
+2012-07-08 - 2012-07-14,7,57,43
+2012-07-15 - 2012-07-21,7,59,49
+2012-07-22 - 2012-07-28,7,65,56
+2012-07-29 - 2012-08-04,8,56,54
+2012-08-05 - 2012-08-11,8,47,43
+2012-08-12 - 2012-08-18,9,48,70
+2012-08-19 - 2012-08-25,10,50,53
+2012-08-26 - 2012-09-01,10,56,45
+2012-09-02 - 2012-09-08,13,59,44
+2012-09-09 - 2012-09-15,15,59,45
+2012-09-16 - 2012-09-22,17,69,44
+2012-09-23 - 2012-09-29,19,71,46
+2012-09-30 - 2012-10-06,18,67,46
+2012-10-07 - 2012-10-13,18,83,43
+2012-10-14 - 2012-10-20,19,74,46
+2012-10-21 - 2012-10-27,19,55,44
+2012-10-28 - 2012-11-03,17,63,40
+2012-11-04 - 2012-11-10,18,68,38
+2012-11-11 - 2012-11-17,21,80,43
+2012-11-18 - 2012-11-24,17,59,36
+2012-11-25 - 2012-12-01,24,80,42
+2012-12-02 - 2012-12-08,33,81,43
+2012-12-09 - 2012-12-15,33,76,40
+2012-12-16 - 2012-12-22,40,50,36
+2012-12-23 - 2012-12-29,43,24,31
+2012-12-30 - 2013-01-05,54,48,34
+2013-01-06 - 2013-01-12,100,56,40
+2013-01-13 - 2013-01-19,81,69,42
+2013-01-20 - 2013-01-26,58,69,40
+2013-01-27 - 2013-02-02,47,67,42
+2013-02-03 - 2013-02-09,37,78,42
+2013-02-10 - 2013-02-16,32,67,41
+2013-02-17 - 2013-02-23,28,76,43
+2013-02-24 - 2013-03-02,27,78,41
+2013-03-03 - 2013-03-09,25,63,41
+2013-03-10 - 2013-03-16,23,62,41
+2013-03-17 - 2013-03-23,20,65,43
+2013-03-24 - 2013-03-30,20,70,46
+2013-03-31 - 2013-04-06,20,68,49
+2013-04-07 - 2013-04-13,18,73,49
+2013-04-14 - 2013-04-20,17,74,47
+2013-04-21 - 2013-04-27,17,81,46
+2013-04-28 - 2013-05-04,15,85,44
+2013-05-05 - 2013-05-11,13,71,46
+2013-05-12 - 2013-05-18,11,56,45
+2013-05-19 - 2013-05-25,10,51,42
+2013-05-26 - 2013-06-01,10,62,57
+2013-06-02 - 2013-06-08,9,71,100
+2013-06-09 - 2013-06-15,9,69,56
+2013-06-16 - 2013-06-22,8,53,48
+2013-06-23 - 2013-06-29,7,61,49
+2013-06-30 - 2013-07-06,7,52,41
+2013-07-07 - 2013-07-13,7,56,44
+2013-07-14 - 2013-07-20,8,55,43
+2013-07-21 - 2013-07-27,8,55,43
+2013-07-28 - 2013-08-03,7,42,44
+2013-08-04 - 2013-08-10,7,44,43
+2013-08-11 - 2013-08-17,8,47,44
+2013-08-18 - 2013-08-24,10,49,47
+2013-08-25 - 2013-08-31,12,56,46
+2013-09-01 - 2013-09-07,14,51,41
+2013-09-08 - 2013-09-14,16,59,42
+2013-09-15 - 2013-09-21,18,63,45
+2013-09-22 - 2013-09-28,20,68,45
+2013-09-29 - 2013-10-05,21,64,41
+2013-10-06 - 2013-10-12,20,62,44
+2013-10-13 - 2013-10-19,22,65,43
+2013-10-20 - 2013-10-26,22,68,47
+2013-10-27 - 2013-11-02,20,68,45
+2013-11-03 - 2013-11-09,20,69,47
+2013-11-10 - 2013-11-16,20,82,46
+2013-11-17 - 2013-11-23,20,71,44
+2013-11-24 - 2013-11-30,15,54,37
+2013-12-01 - 2013-12-07,21,72,46
+2013-12-08 - 2013-12-14,23,65,43
+2013-12-15 - 2013-12-21,28,51,39
+2013-12-22 - 2013-12-28,32,37,32
+2013-12-29 - 2014-01-04,42,48,36
+2014-01-05 - 2014-01-11,50,65,42
+2014-01-12 - 2014-01-18,51,67,44
+2014-01-19 - 2014-01-25,44,63,41
+2014-01-26 - 2014-02-01,39,69,42
+2014-02-02 - 2014-02-08,32,67,40
+2014-02-09 - 2014-02-15,28,61,41
+2014-02-16 - 2014-02-22,25,79,40
+2014-02-23 - 2014-03-01,24,77,61
+,,,
+,,,
+Top subregions for influenza,,,
+Subregion,influenza,haemophilus,hepatitis
+South Dakota,100,100,100
+North Dakota,70,87,89
+Nebraska,61,81,86
+Iowa,54,80,84
+Montana,49,80,83
+Minnesota,46,78,82
+Wyoming,46,76,82
+Wisconsin,38,70,81
+Kansas,37,68,78
+Alaska,32,63,76
+Idaho,31,63,76
+Missouri,31,61,76
+Maine,30,61,75
+West Virginia,30,58,74
+Indiana,28,58,74
+Hawaii,27,55,74
+Maryland,26,55,74
+Utah,26,54,74
+Michigan,25,53,73
+New Mexico,25,53,73
+Colorado,24,46,72
+Arkansas,24,0,72
+Vermont,23,0,72
+Ohio,23,0,72
+Illinois,23,0,72
+Tennessee,23,0,71
+Oklahoma,22,0,71
+Arizona,21,0,71
+Kentucky,21,0,70
+Connecticut,21,0,70
+Mississippi,21,0,69
+Pennsylvania,20,0,69
+Washington,20,0,69
+Delaware,20,0,69
+North Carolina,20,0,68
+New Hampshire,20,0,68
+Louisiana,20,0,67
+Oregon,20,0,67
+Rhode Island,20,0,67
+Alabama,20,0,67
+Florida,19,0,66
+Virginia,19,0,66
+Georgia,19,0,65
+Texas,19,0,65
+Massachusetts,19,0,65
+District of Columbia,19,0,65
+South Carolina,18,0,64
+California,17,0,64
+Nevada,17,0,64
+New York,16,0,63
+New Jersey,16,0,59
+,,,
+,,,
+Top metros for influenza,,,
+Metro,influenza,,hepatitis
+Minneapolis-St. Paul MN,100,,100
+Milwaukee WI,79,haemophilus,71
+Kansas City MO,73,100,68
+St. Louis MO,66,52,64
+Salt Lake City UT,64,49,63
+Indianapolis IN,59,49,62
+Denver CO,56,45,61
+Baltimore MD,54,37,61
+Columbus OH,54,,60
+Detroit MI,54,,60
+Raleigh-Durham (Fayetteville) NC,53,,60
+Pittsburgh PA,52,,59
+San Diego CA,50,100,59
+Sacramento-Stockton-Modesto CA,50,25,59
+Cleveland-Akron (Canton) OH,48,20,58
+Nashville TN,48,15,58
+Miami-Ft. Lauderdale FL,48,10,57
+Phoenix AZ,47,10,57
+Washington DC (Hagerstown MD),47,10,57
+San Antonio TX,47,10,57
+Chicago IL,46,5,57
+Boston MA-Manchester NH,44,5,56
+Portland OR,44,5,56
+Tampa-St. Petersburg (Sarasota) FL,44,5,56
+Atlanta GA,43,5,56
+Seattle-Tacoma WA,43,5,56
+Austin TX,42,5,56
+Houston TX,41,5,56
+Philadelphia PA,41,5,56
+Orlando-Daytona Beach-Melbourne FL,40,5,55
+Charlotte NC,39,5,55
+Dallas-Ft. Worth TX,37,5,55
+San Francisco-Oakland-San Jose CA,36,5,55
+New York NY,35,0,55
+Los Angeles CA,35,0,55
+Portland-Auburn ME,0,,54
+Binghamton NY,0,,54
+Macon GA,0,,54
+Savannah GA,0,,54
+Ft. Wayne IN,0,+70%,53
+Flint-Saginaw-Bay City MI,0,+70%,53
+Buffalo NY,0,+50%,53
+Cincinnati OH,0,+50%,52
+Erie PA,0,+50%,52
+Greensboro-High Point-Winston Salem NC,0,+40%,52
+Charleston SC,0,+40%,52
+Augusta GA,0,,52
+Providence RI-New Bedford MA,0,,52
+Columbus GA,0,,52
+Burlington VT-Plattsburgh NY,0,,51
+Albany GA,0,,51
+Utica NY,0,,51
+Louisville KY,0,,51
+Tallahassee FL-Thomasville GA,0,,51
+Tri-Cities TN-VA,0,,50
+Albany-Schenectady-Troy NY,0,,50
+Hartford & New Haven CT,0,,50
+Youngstown OH,0,,49
+Bangor ME,0,,49
+Rochester NY,0,,49
+Traverse City-Cadillac MI,0,,49
+Lexington KY,0,,49
+Dayton OH,0,,48
+Springfield-Holyoke MA,0,,48
+Norfolk-Portsmouth-Newport News VA,0,,48
+Greenville-New Bern-Washington NC,0,,48
+Columbia SC,0,,48
+Toledo OH,0,,47
+West Palm Beach-Ft. Pierce FL,0,,47
+Watertown NY,0,,47
+Wilmington NC,0,,47
+Lansing MI,0,,47
+Presque Isle ME,0,,47
+Marquette MI,0,,47
+Wheeling WV-Steubenville OH,0,,46
+Syracuse NY,0,,45
+Richmond-Petersburg VA,0,,0
+Knoxville TN,0,,0
+Lima OH,0,,0
+Bluefield-Beckley-Oak Hill WV,0,,0
+Jacksonville FL,0,,0
+Grand Rapids-Kalamazoo-Battle Creek MI,0,,0
+Charleston-Huntington WV,0,,0
+Elmira NY,0,,0
+Harrisburg-Lancaster-Lebanon-York PA,0,,0
+Greenville-Spartanburg SC-Asheville NC-Anderson SC,0,,0
+Harrisonburg VA,0,,0
+Florence-Myrtle Beach SC,0,,0
+Ft. Myers-Naples FL,0,,0
+Roanoke-Lynchburg VA,0,,0
+Johnstown-Altoona PA,0,,0
+Chattanooga TN,0,,0
+Salisbury MD,0,,0
+Wilkes Barre-Scranton PA,0,,0
+Terre Haute IN,0,,0
+Lafayette IN,0,,0
+Alpena MI,0,,0
+Charlottesville VA,0,,0
+South Bend-Elkhart IN,0,,0
+Gainesville FL,0,,0
+Zanesville OH,0,,0
+Parkersburg WV,0,,0
+Clarksburg-Weston WV,0,,0
+Corpus Christi TX,0,,0
+Joplin MO-Pittsburg KS,0,,0
+Columbia-Jefferson City MO,0,,0
+Topeka KS,0,,0
+Dothan AL,0,,0
+Rockford IL,0,,0
+Rochester MN-Mason City IA-Austin MN,0,,0
+Shreveport LA,0,,0
+Springfield MO,0,,0
+New Orleans LA,0,,0
+Sioux City IA,0,,0
+Waco-Temple-Bryan TX,0,,0
+Victoria TX,0,,0
+Wichita Falls TX & Lawton OK,0,,0
+Monroe LA-El Dorado AR,0,,0
+Birmingham AL,0,,0
+Ottumwa IA-Kirksville MO,0,,0
+Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,0,,0
+Odessa-Midland TX,0,,0
+Amarillo TX,0,,0
+Harlingen-Weslaco-Brownsville-McAllen TX,0,,0
+Cedar Rapids-Waterloo-Iowa City & Dubuque IA,0,,0
+St. Joseph MO,0,,0
+Jackson TN,0,,0
+Memphis TN,0,,0
+Lafayette LA,0,,0
+Lake Charles LA,0,,0
+Alexandria LA,0,,0
+Greenwood-Greenville MS,0,,0
+Champaign & Springfield-Decatur IL,0,,0
+Evansville IN,0,,0
+Oklahoma City OK,0,,0
+Lubbock TX,0,,0
+Omaha NE,0,,0
+Panama City FL,0,,0
+Sherman TX-Ada OK,0,,0
+Green Bay-Appleton WI,0,,0
+San Angelo TX,0,,0
+Abilene-Sweetwater TX,0,,0
+Madison WI,0,,0
+Ft. Smith-Fayetteville-Springdale-Rogers AR,0,,0
+Tulsa OK,0,,0
+Columbus-Tupelo-West Point MS,0,,0
+Peoria-Bloomington IL,0,,0
+Duluth MN-Superior WI,0,,0
+Wichita-Hutchinson KS,0,,0
+Des Moines-Ames IA,0,,0
+Davenport IA-Rock Island-Moline IL,0,,0
+Mobile AL-Pensacola (Ft. Walton Beach) FL,0,,0
+Minot-Bismarck-Dickinson(Williston) ND,0,,0
+Huntsville-Decatur (Florence) AL,0,,0
+Beaumont-Port Arthur TX,0,,0
+Little Rock-Pine Bluff AR,0,,0
+Montgomery (Selma) AL,0,,0
+La Crosse-Eau Claire WI,0,,0
+Wausau-Rhinelander WI,0,,0
+Tyler-Longview(Lufkin & Nacogdoches) TX,0,,0
+Hattiesburg-Laurel MS,0,,0
+Meridian MS,0,,0
+Baton Rouge LA,0,,0
+Quincy IL-Hannibal MO-Keokuk IA,0,,0
+Jackson MS,0,,0
+Lincoln & Hastings-Kearney NE,0,,0
+Fargo-Valley City ND,0,,0
+Sioux Falls(Mitchell) SD,0,,0
+Jonesboro AR,0,,0
+Bowling Green KY,0,,0
+Mankato MN,0,,0
+North Platte NE,0,,0
+Anchorage AK,0,,0
+Honolulu HI,0,,0
+Fairbanks AK,0,,0
+Biloxi-Gulfport MS,0,,0
+Juneau AK,0,,0
+Laredo TX,0,,0
+Colorado Springs-Pueblo CO,0,,0
+Butte-Bozeman MT,0,,0
+Great Falls MT,0,,0
+Billings MT,0,,0
+Boise ID,0,,0
+Idaho Falls-Pocatello ID,0,,0
+Cheyenne WY-Scottsbluff NE,0,,0
+Twin Falls ID,0,,0
+Missoula MT,0,,0
+Rapid City SD,0,,0
+El Paso TX,0,,0
+Helena MT,0,,0
+Casper-Riverton WY,0,,0
+Yuma AZ-El Centro CA,0,,0
+Grand Junction-Montrose CO,0,,0
+Tucson (Sierra Vista) AZ,0,,0
+Albuquerque-Santa Fe NM,0,,0
+Glendive MT,0,,0
+Bakersfield CA,0,,0
+Eugene OR,0,,0
+Eureka CA,0,,0
+Palm Springs CA,0,,0
+Yakima-Pasco-Richland-Kennewick WA,0,,0
+Reno NV,0,,0
+Medford-Klamath Falls OR,0,,0
+Bend OR,0,,0
+Monterey-Salinas CA,0,,0
+Las Vegas NV,0,,0
+Santa Barbara-Santa Maria-San Luis Obispo CA,0,,0
+Fresno-Visalia CA,0,,0
+Chico-Redding CA,0,,0
+Spokane WA,0,,0
+,,,
+,,,
+Top cities for influenza,,,
+City,influenza,,hepatitis
+Omaha,100,,100
+Saint Paul,87,,87
+Madison,81,,84
+Baltimore,63,,83
+Minneapolis,58,,79
+St. Louis,56,,77
+Nashville,54,,76
+Pittsburgh,50,,76
+Miami,44,,73
+Denver,42,,72
+Columbus,42,,72
+San Diego,42,,69
+Phoenix,41,,68
+Portland,39,,68
+Atlanta,38,,67
+,,,
+,,,
+,,,
+Top searches for influenza,,,
+influenza a,100,,100
+flu,60,,65
+influenza flu,55,,45
+influenza vaccine,50,,20
+influenza symptoms,50,,20
+influenza b,45,,15
+influenza virus,40,,10
+what is influenza,30,,10
+influenza cdc,20,,10
+symptoms of influenza,15,,10
+influenza 1918,15,,10
+influenza 2013,15,,10
+spanish influenza,15,,10
+influenza a symptoms,15,,5
+pandemic influenza,15,,5
+pandemic,10,,5
+influenza treatment,10,,5
+influenza a virus,10,,5
+influenza type a,10,,5
+flu vaccine,10,,5
+influenza 2012,10,,5
+h1n1,10,,5
+h1n1 influenza,10,,5
+influenza pneumonia,10,,5
+influenza shot,10,,5
+avian influenza,10,,5
+influenza vaccination,10,,5
+influenza epidemic,10,,0
+influenza test,10,,0
+influenza of 1918,5,,0
+influenza contagious,5,,0
+tamiflu,5,,0
+sintomas influenza,5,,0
+influenza b symptoms,5,,0
+canine influenza,5,,0
+influenza definition,5,,0
+type b influenza,5,,0
+influenza deaths,5,,0
+influenza incubation period,5,,0
+symptoms for influenza,5,,0
+sintomas de influenza,5,,0
+influenza outbreak,5,,0
+cdc influenza vaccine,5,,0
+treatment for influenza,5,,0
+influenza in children,5,,0
+1918 influenza pandemic,5,,0
+vis influenza,5,,0
+icd 9 influenza,5,,0
+influenza map,5,,0
+cdc flu,5,,0
+,,,
+,,,
+,,,
+Rising searches for influenza,,,
+influenza 2012,Breakout,,+110%
+influenza 2013,Breakout,,+90%
+influenza contagious,+190%,,+80%
+influenza a symptoms,+180%,,+80%
+what is influenza,+120%,,+70%
+influenza b,+110%,,+70%
+symptoms of influenza,+90%,,+60%
+influenza symptoms,+80%,,+60%
+influenza shot,+70%,,+50%
+influenza pneumonia,+60%,,+50%

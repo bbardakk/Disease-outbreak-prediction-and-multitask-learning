@@ -1,0 +1,526 @@
+Week,fever,typhoid vaccine,typhoid fever,typhoid
+2010-12-05 - 2010-12-11,50,49,36,40
+2010-12-12 - 2010-12-18,52,51,35,37
+2010-12-19 - 2010-12-25,52,47,17,22
+2010-12-26 - 2011-01-01,57,61,25,27
+2011-01-02 - 2011-01-08,62,42,32,35
+2011-01-09 - 2011-01-15,63,50,40,40
+2011-01-16 - 2011-01-22,68,44,27,35
+2011-01-23 - 2011-01-29,70,61,38,36
+2011-01-30 - 2011-02-05,73,52,33,38
+2011-02-06 - 2011-02-12,75,47,42,36
+2011-02-13 - 2011-02-19,88,46,37,36
+2011-02-20 - 2011-02-26,83,45,40,35
+2011-02-27 - 2011-03-05,74,49,37,34
+2011-03-06 - 2011-03-12,70,50,37,34
+2011-03-13 - 2011-03-19,66,48,31,31
+2011-03-20 - 2011-03-26,68,46,33,33
+2011-03-27 - 2011-04-02,67,40,32,30
+2011-04-03 - 2011-04-09,65,53,34,38
+2011-04-10 - 2011-04-16,63,46,38,33
+2011-04-17 - 2011-04-23,60,56,35,37
+2011-04-24 - 2011-04-30,60,46,41,35
+2011-05-01 - 2011-05-07,58,61,40,38
+2011-05-08 - 2011-05-14,60,74,41,41
+2011-05-15 - 2011-05-21,59,58,31,34
+2011-05-22 - 2011-05-28,58,58,29,31
+2011-05-29 - 2011-06-04,60,68,61,47
+2011-06-05 - 2011-06-11,60,70,27,33
+2011-06-12 - 2011-06-18,56,60,29,34
+2011-06-19 - 2011-06-25,57,49,26,26
+2011-06-26 - 2011-07-02,55,57,24,30
+2011-07-03 - 2011-07-09,56,48,20,29
+2011-07-10 - 2011-07-16,54,64,25,39
+2011-07-17 - 2011-07-23,53,45,23,34
+2011-07-24 - 2011-07-30,52,50,25,43
+2011-07-31 - 2011-08-06,52,44,24,29
+2011-08-07 - 2011-08-13,50,44,24,28
+2011-08-14 - 2011-08-20,51,32,27,29
+2011-08-21 - 2011-08-27,51,34,24,25
+2011-08-28 - 2011-09-03,53,42,23,26
+2011-09-04 - 2011-09-10,54,29,28,28
+2011-09-11 - 2011-09-17,57,42,32,29
+2011-09-18 - 2011-09-24,58,42,48,38
+2011-09-25 - 2011-10-01,59,42,28,32
+2011-10-02 - 2011-10-08,57,42,31,31
+2011-10-09 - 2011-10-15,56,43,33,33
+2011-10-16 - 2011-10-22,56,40,31,34
+2011-10-23 - 2011-10-29,57,35,32,32
+2011-10-30 - 2011-11-05,59,53,29,35
+2011-11-06 - 2011-11-12,58,45,33,31
+2011-11-13 - 2011-11-19,61,47,33,37
+2011-11-20 - 2011-11-26,57,42,30,30
+2011-11-27 - 2011-12-03,58,42,37,37
+2011-12-04 - 2011-12-10,56,50,34,37
+2011-12-11 - 2011-12-17,57,44,36,35
+2011-12-18 - 2011-12-24,55,43,21,27
+2011-12-25 - 2011-12-31,58,37,21,24
+2012-01-01 - 2012-01-07,60,52,30,34
+2012-01-08 - 2012-01-14,61,52,31,34
+2012-01-15 - 2012-01-21,60,45,29,30
+2012-01-22 - 2012-01-28,62,50,35,33
+2012-01-29 - 2012-02-04,63,59,34,100
+2012-02-05 - 2012-02-11,66,52,36,39
+2012-02-12 - 2012-02-18,64,50,33,31
+2012-02-19 - 2012-02-25,66,52,38,35
+2012-02-26 - 2012-03-03,65,52,36,33
+2012-03-04 - 2012-03-10,71,49,33,36
+2012-03-11 - 2012-03-17,67,45,33,33
+2012-03-18 - 2012-03-24,64,53,35,33
+2012-03-25 - 2012-03-31,63,50,35,35
+2012-04-01 - 2012-04-07,63,43,31,32
+2012-04-08 - 2012-04-14,66,50,39,33
+2012-04-15 - 2012-04-21,68,49,34,33
+2012-04-22 - 2012-04-28,63,54,41,41
+2012-04-29 - 2012-05-05,62,59,38,40
+2012-05-06 - 2012-05-12,61,73,35,37
+2012-05-13 - 2012-05-19,62,69,40,39
+2012-05-20 - 2012-05-26,65,76,35,38
+2012-05-27 - 2012-06-02,62,90,40,46
+2012-06-03 - 2012-06-09,59,73,31,36
+2012-06-10 - 2012-06-16,60,74,27,31
+2012-06-17 - 2012-06-23,58,59,23,31
+2012-06-24 - 2012-06-30,55,62,23,28
+2012-07-01 - 2012-07-07,54,54,23,27
+2012-07-08 - 2012-07-14,55,52,22,28
+2012-07-15 - 2012-07-21,54,55,26,29
+2012-07-22 - 2012-07-28,54,46,23,28
+2012-07-29 - 2012-08-04,53,45,19,24
+2012-08-05 - 2012-08-11,52,43,21,24
+2012-08-12 - 2012-08-18,54,46,22,26
+2012-08-19 - 2012-08-25,56,37,32,36
+2012-08-26 - 2012-09-01,56,32,23,28
+2012-09-02 - 2012-09-08,57,40,28,28
+2012-09-09 - 2012-09-15,57,45,27,31
+2012-09-16 - 2012-09-22,58,36,26,29
+2012-09-23 - 2012-09-29,59,32,31,30
+2012-09-30 - 2012-10-06,59,52,27,31
+2012-10-07 - 2012-10-13,59,48,31,33
+2012-10-14 - 2012-10-20,100,53,55,43
+2012-10-21 - 2012-10-27,69,46,34,35
+2012-10-28 - 2012-11-03,59,37,35,33
+2012-11-04 - 2012-11-10,59,57,31,34
+2012-11-11 - 2012-11-17,60,42,37,33
+2012-11-18 - 2012-11-24,60,46,26,26
+2012-11-25 - 2012-12-01,62,49,32,31
+2012-12-02 - 2012-12-08,66,68,37,35
+2012-12-09 - 2012-12-15,67,57,34,36
+2012-12-16 - 2012-12-22,71,50,25,30
+2012-12-23 - 2012-12-29,81,47,24,40
+2012-12-30 - 2013-01-05,79,52,22,31
+2013-01-06 - 2013-01-12,79,71,32,37
+2013-01-13 - 2013-01-19,76,50,35,36
+2013-01-20 - 2013-01-26,76,61,33,33
+2013-01-27 - 2013-02-02,74,55,33,35
+2013-02-03 - 2013-02-09,74,55,100,62
+2013-02-10 - 2013-02-16,67,55,38,34
+2013-02-17 - 2013-02-23,68,49,35,35
+2013-02-24 - 2013-03-02,66,61,37,35
+2013-03-03 - 2013-03-09,66,63,34,35
+2013-03-10 - 2013-03-16,68,57,30,33
+2013-03-17 - 2013-03-23,66,52,39,37
+2013-03-24 - 2013-03-30,65,42,28,34
+2013-03-31 - 2013-04-06,65,60,33,32
+2013-04-07 - 2013-04-13,66,53,38,35
+2013-04-14 - 2013-04-20,62,59,30,33
+2013-04-21 - 2013-04-27,62,67,37,38
+2013-04-28 - 2013-05-04,63,68,87,58
+2013-05-05 - 2013-05-11,65,78,49,44
+2013-05-12 - 2013-05-18,61,78,34,37
+2013-05-19 - 2013-05-25,57,86,31,34
+2013-05-26 - 2013-06-01,59,71,30,32
+2013-06-02 - 2013-06-08,58,100,37,37
+2013-06-09 - 2013-06-15,56,93,29,37
+2013-06-16 - 2013-06-22,56,86,31,34
+2013-06-23 - 2013-06-29,59,76,25,38
+2013-06-30 - 2013-07-06,58,67,26,38
+2013-07-07 - 2013-07-13,58,74,28,35
+2013-07-14 - 2013-07-20,56,75,27,37
+2013-07-21 - 2013-07-27,55,64,26,33
+2013-07-28 - 2013-08-03,55,69,27,35
+2013-08-04 - 2013-08-10,55,64,24,29
+2013-08-11 - 2013-08-17,54,61,26,46
+2013-08-18 - 2013-08-24,55,59,24,36
+2013-08-25 - 2013-08-31,56,60,30,39
+2013-09-01 - 2013-09-07,55,47,24,32
+2013-09-08 - 2013-09-14,58,53,28,31
+2013-09-15 - 2013-09-21,58,59,32,36
+2013-09-22 - 2013-09-28,58,59,28,43
+2013-09-29 - 2013-10-05,58,66,31,43
+2013-10-06 - 2013-10-12,58,63,31,40
+2013-10-13 - 2013-10-19,58,66,35,40
+2013-10-20 - 2013-10-26,59,55,33,37
+2013-10-27 - 2013-11-02,59,51,32,37
+2013-11-03 - 2013-11-09,57,70,35,43
+2013-11-10 - 2013-11-16,60,65,33,43
+2013-11-17 - 2013-11-23,60,66,38,43
+2013-11-24 - 2013-11-30,54,47,26,32
+2013-12-01 - 2013-12-07,60,67,33,39
+2013-12-08 - 2013-12-14,65,68,33,38
+2013-12-15 - 2013-12-21,68,70,26,32
+2013-12-22 - 2013-12-28,74,60,23,31
+2013-12-29 - 2014-01-04,79,53,19,28
+2014-01-05 - 2014-01-11,73,72,24,34
+2014-01-12 - 2014-01-18,73,65,36,35
+2014-01-19 - 2014-01-25,73,69,61,58
+2014-01-26 - 2014-02-01,70,66,41,46
+2014-02-02 - 2014-02-08,69,64,35,47
+2014-02-09 - 2014-02-15,69,63,33,37
+2014-02-16 - 2014-02-22,66,65,28,34
+2014-02-23 - 2014-03-01,68,70,37,42
+,,,,
+,,,,
+Top subregions for fever,,,,
+Subregion,fever,typhoid vaccine,typhoid fever,typhoid
+Alabama,100,100,100,100
+Arizona,99,87,73,92
+Mississippi,97,87,64,90
+Arkansas,94,84,54,90
+Louisiana,94,81,53,87
+Indiana,93,77,53,86
+Hawaii,91,74,53,85
+Oklahoma,90,74,52,84
+Kentucky,90,71,52,82
+Tennessee,89,65,50,81
+West Virginia,87,62,50,81
+Texas,85,57,48,79
+North Carolina,84,57,48,78
+Georgia,83,55,48,78
+South Carolina,82,54,48,77
+Missouri,80,49,48,76
+Alaska,79,37,47,75
+Pennsylvania,79,0,47,75
+Illinois,78,0,45,74
+Nevada,78,0,45,74
+California,78,0,43,74
+New Jersey,78,0,43,73
+Florida,78,0,42,73
+Kansas,78,0,40,73
+New York,77,0,40,73
+Vermont,77,0,0,72
+Delaware,77,0,0,72
+Wyoming,77,0,0,71
+Virginia,76,0,0,71
+Maryland,76,0,0,71
+Montana,75,0,0,71
+New Mexico,75,0,0,70
+Nebraska,74,0,0,69
+Minnesota,73,0,0,69
+Washington,73,0,0,69
+Massachusetts,73,0,0,68
+Ohio,73,0,0,66
+New Hampshire,72,0,0,66
+Michigan,72,0,0,66
+South Dakota,72,0,0,66
+District of Columbia,72,0,0,65
+North Dakota,71,0,0,64
+Maine,71,0,0,55
+Iowa,71,0,0,0
+Connecticut,71,0,0,0
+Colorado,70,0,0,0
+Rhode Island,70,0,0,0
+Wisconsin,70,0,0,0
+Utah,70,0,0,0
+Idaho,70,0,0,0
+Oregon,61,0,0,0
+,,,,
+,,,,
+Top metros for fever,,,,
+Metro,fever,,typhoid fever,typhoid
+Hattiesburg-Laurel MS,100,,100,100
+Odessa-Midland TX,95,typhoid vaccine,0,94
+Bakersfield CA,90,100,0,92
+Columbus-Tupelo-West Point MS,88,96,0,82
+Bowling Green KY,86,86,0,81
+Birmingham AL,82,61,0,80
+South Bend-Elkhart IN,82,44,0,78
+Jackson MS,82,43,0,76
+Evansville IN,81,,0,74
+Tucson (Sierra Vista) AZ,80,,0,69
+Shreveport LA,80,,0,68
+Missoula MT,80,,0,0
+Huntsville-Decatur (Florence) AL,79,100,0,0
+Ft. Smith-Fayetteville-Springdale-Rogers AR,79,100,0,0
+Lafayette LA,79,95,0,0
+Tri-Cities TN-VA,78,50,0,0
+Mobile AL-Pensacola (Ft. Walton Beach) FL,78,45,0,0
+Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,78,40,0,0
+New Orleans LA,78,35,0,0
+Charleston-Huntington WV,77,30,0,0
+Little Rock-Pine Bluff AR,77,30,0,0
+Erie PA,77,30,0,0
+Phoenix AZ,77,25,0,0
+Baton Rouge LA,77,20,0,0
+Yakima-Pasco-Richland-Kennewick WA,77,20,0,0
+Corpus Christi TX,76,20,0,0
+Lubbock TX,76,20,0,0
+Tyler-Longview(Lufkin & Nacogdoches) TX,76,20,0,0
+Chattanooga TN,76,15,0,0
+Nashville TN,76,15,0,0
+Charlottesville VA,75,15,0,0
+Indianapolis IN,75,15,0,0
+Montgomery (Selma) AL,75,15,0,0
+Oklahoma City OK,75,15,0,0
+Lexington KY,75,15,0,0
+Honolulu HI,75,10,0,0
+Columbia-Jefferson City MO,74,,0,0
+Wilmington NC,74,,0,0
+Austin TX,73,,0,0
+Waco-Temple-Bryan TX,73,,0,0
+Amarillo TX,72,Breakout,0,0
+Louisville KY,72,+100%,0,0
+Memphis TN,71,+100%,0,0
+Tulsa OK,71,+90%,0,0
+Columbus GA,71,+70%,0,0
+Rockford IL,71,+70%,0,0
+Springfield MO,71,+50%,0,0
+Greenville-Spartanburg SC-Asheville NC-Anderson SC,70,+50%,0,0
+Binghamton NY,70,+40%,0,0
+Rochester MN-Mason City IA-Austin MN,70,+40%,0,0
+Knoxville TN,70,,0,0
+Dallas-Ft. Worth TX,70,,0,0
+Wausau-Rhinelander WI,70,,0,0
+Gainesville FL,70,,0,0
+Roanoke-Lynchburg VA,69,,0,0
+Greensboro-High Point-Winston Salem NC,69,,0,0
+Charleston SC,69,,0,0
+Greenville-New Bern-Washington NC,69,,0,0
+Augusta GA,69,,0,0
+Ft. Wayne IN,69,,0,0
+Florence-Myrtle Beach SC,68,,0,0
+Raleigh-Durham (Fayetteville) NC,68,,0,0
+Chico-Redding CA,68,,0,0
+Charlotte NC,68,,0,0
+Topeka KS,68,,0,0
+Atlanta GA,68,,0,0
+Wichita-Hutchinson KS,68,,0,0
+La Crosse-Eau Claire WI,67,,0,0
+Peoria-Bloomington IL,66,,0,0
+Wilkes Barre-Scranton PA,66,,0,0
+St. Louis MO,66,,0,0
+Columbia SC,66,,0,0
+Philadelphia PA,66,,0,0
+Santa Barbara-Santa Maria-San Luis Obispo CA,66,,0,0
+Tallahassee FL-Thomasville GA,66,,0,0
+Davenport IA-Rock Island-Moline IL,66,,0,0
+Flint-Saginaw-Bay City MI,66,,0,0
+El Paso TX,65,,0,0
+Las Vegas NV,65,,0,0
+New York NY,65,,0,0
+Orlando-Daytona Beach-Melbourne FL,65,,0,0
+Youngstown OH,65,,0,0
+Burlington VT-Plattsburgh NY,65,,0,0
+Johnstown-Altoona PA,65,,0,0
+Albuquerque-Santa Fe NM,64,,0,0
+Chicago IL,64,,0,0
+Richmond-Petersburg VA,64,,0,0
+Houston TX,64,,0,0
+Dayton OH,64,,0,0
+Anchorage AK,64,,0,0
+Fresno-Visalia CA,64,,0,0
+Harrisburg-Lancaster-Lebanon-York PA,64,,0,0
+Springfield-Holyoke MA,64,,0,0
+Champaign & Springfield-Decatur IL,63,,0,0
+Savannah GA,63,,0,0
+Jacksonville FL,63,,0,0
+San Antonio TX,63,,0,0
+San Francisco-Oakland-San Jose CA,63,,0,0
+Kansas City MO,62,,0,0
+Macon GA,62,,0,0
+Baltimore MD,62,,0,0
+Abilene-Sweetwater TX,62,,0,0
+Miami-Ft. Lauderdale FL,62,,0,0
+Lansing MI,62,,0,0
+Syracuse NY,62,,0,0
+Spokane WA,62,,0,0
+Palm Springs CA,62,,0,0
+Harlingen-Weslaco-Brownsville-McAllen TX,62,,0,0
+Sacramento-Stockton-Modesto CA,62,,0,0
+Pittsburgh PA,61,,0,0
+Los Angeles CA,61,,0,0
+Colorado Springs-Pueblo CO,61,,0,0
+San Diego CA,61,,0,0
+Madison WI,61,,0,0
+Cincinnati OH,61,,0,0
+Monterey-Salinas CA,61,,0,0
+Omaha NE,61,,0,0
+Sioux Falls(Mitchell) SD,61,,0,0
+Traverse City-Cadillac MI,60,,0,0
+Washington DC (Hagerstown MD),60,,0,0
+Hartford & New Haven CT,60,,0,0
+Toledo OH,60,,0,0
+Boston MA-Manchester NH,60,,0,0
+Eugene OR,60,,0,0
+Reno NV,60,,0,0
+Seattle-Tacoma WA,60,,0,0
+Columbus OH,60,,0,0
+Portland-Auburn ME,59,,0,0
+Buffalo NY,59,,0,0
+Cleveland-Akron (Canton) OH,59,,0,0
+Detroit MI,59,,0,0
+Cedar Rapids-Waterloo-Iowa City & Dubuque IA,59,,0,0
+Lincoln & Hastings-Kearney NE,59,,0,0
+Albany-Schenectady-Troy NY,58,,0,0
+Denver CO,58,,0,0
+Tampa-St. Petersburg (Sarasota) FL,58,,0,0
+Milwaukee WI,58,,0,0
+Norfolk-Portsmouth-Newport News VA,58,,0,0
+Minneapolis-St. Paul MN,58,,0,0
+Rochester NY,58,,0,0
+Providence RI-New Bedford MA,57,,0,0
+Salt Lake City UT,57,,0,0
+Grand Rapids-Kalamazoo-Battle Creek MI,57,,0,0
+Ft. Myers-Naples FL,57,,0,0
+Boise ID,56,,0,0
+Des Moines-Ames IA,56,,0,0
+Fargo-Valley City ND,54,,0,0
+West Palm Beach-Ft. Pierce FL,54,,0,0
+Green Bay-Appleton WI,52,,0,0
+Portland OR,48,,0,0
+Albany GA,0,,0,0
+Utica NY,0,,0,0
+Bangor ME,0,,0,0
+Watertown NY,0,,0,0
+Presque Isle ME,0,,0,0
+Marquette MI,0,,0,0
+Wheeling WV-Steubenville OH,0,,0,0
+Lima OH,0,,0,0
+Bluefield-Beckley-Oak Hill WV,0,,0,0
+Elmira NY,0,,0,0
+Harrisonburg VA,0,,0,0
+Salisbury MD,0,,0,0
+Terre Haute IN,0,,0,0
+Lafayette IN,0,,0,0
+Alpena MI,0,,0,0
+Zanesville OH,0,,0,0
+Parkersburg WV,0,,0,0
+Clarksburg-Weston WV,0,,0,0
+Joplin MO-Pittsburg KS,0,,0,0
+Dothan AL,0,,0,0
+Sioux City IA,0,,0,0
+Victoria TX,0,,0,0
+Wichita Falls TX & Lawton OK,0,,0,0
+Monroe LA-El Dorado AR,0,,0,0
+Ottumwa IA-Kirksville MO,0,,0,0
+St. Joseph MO,0,,0,0
+Jackson TN,0,,0,0
+Lake Charles LA,0,,0,0
+Alexandria LA,0,,0,0
+Greenwood-Greenville MS,0,,0,0
+Panama City FL,0,,0,0
+Sherman TX-Ada OK,0,,0,0
+San Angelo TX,0,,0,0
+Duluth MN-Superior WI,0,,0,0
+Minot-Bismarck-Dickinson(Williston) ND,0,,0,0
+Beaumont-Port Arthur TX,0,,0,0
+Meridian MS,0,,0,0
+Quincy IL-Hannibal MO-Keokuk IA,0,,0,0
+Jonesboro AR,0,,0,0
+Mankato MN,0,,0,0
+North Platte NE,0,,0,0
+Fairbanks AK,0,,0,0
+Biloxi-Gulfport MS,0,,0,0
+Juneau AK,0,,0,0
+Laredo TX,0,,0,0
+Butte-Bozeman MT,0,,0,0
+Great Falls MT,0,,0,0
+Billings MT,0,,0,0
+Idaho Falls-Pocatello ID,0,,0,0
+Cheyenne WY-Scottsbluff NE,0,,0,0
+Twin Falls ID,0,,0,0
+Rapid City SD,0,,0,0
+Helena MT,0,,0,0
+Casper-Riverton WY,0,,0,0
+Yuma AZ-El Centro CA,0,,0,0
+Grand Junction-Montrose CO,0,,0,0
+Glendive MT,0,,0,0
+Eureka CA,0,,0,0
+Medford-Klamath Falls OR,0,,0,0
+Bend OR,0,,0,0
+,,,,
+,,,,
+Top cities for fever,,,,
+City,fever,,typhoid fever,typhoid
+Indianapolis,100,,100,100
+Phoenix,96,,66,99
+Austin,95,,65,97
+Nashville,94,,64,96
+Dallas,89,,64,95
+Atlanta,89,,58,94
+Charlotte,83,,56,89
+Philadelphia,83,,56,85
+Miami,83,,53,85
+San Francisco,82,,,82
+Las Vegas,82,,,80
+St. Louis,81,,,79
+Orlando,81,,,78
+New York,79,,100,77
+Chicago,79,,80,74
+,,,75,
+,,,65,
+,,,65,
+Top searches for fever,,,60,
+fever symptoms,100,,60,100
+cabin fever,60,,40,80
+scarlet fever,60,,30,55
+high fever,60,,25,20
+baby fever,55,,25,20
+yellow fever,45,,25,15
+night fever,45,,20,10
+fever temperature,40,,20,10
+fever blister,35,,20,10
+toddler fever,35,,15,10
+fever rash,35,,15,10
+child fever,35,,15,5
+fever blisters,30,,10,5
+dengue fever,30,,10,5
+valley fever,30,,10,5
+sore throat,30,,,5
+cat scratch fever,30,,,5
+fever headache,25,,,5
+saturday night fever,25,,,5
+fever in children,25,,+130%,5
+fever lyrics,25,,+100%,5
+low grade fever,25,,+100%,5
+hay fever,20,,+90%,5
+rocky mountain fever,20,,+70%,5
+rheumatic fever,20,,+60%,5
+infant fever,15,,+60%,5
+fever in adults,15,,+50%,5
+jungle fever,15,,+50%,5
+strep throat,15,,+50%,5
+dog fever,15,,,5
+typhoid fever,15,,,5
+cabin fever 2,15,,,5
+wiz khalifa,15,,,5
+fever pitch,15,,,5
+starve a fever,10,,,0
+feed a fever,10,,,0
+fever remedies,10,,,0
+102 fever,10,,,0
+flu symptoms,10,,,0
+103 fever,10,,,0
+teething fever,10,,,0
+fever and rash,10,,,0
+fever ray,10,,,0
+chills and fever,10,,,0
+drama fever,10,,,0
+fever reducer,10,,,0
+bieber fever,10,,,0
+pneumonia,10,,,0
+spring fever,10,,,
+scarlet fever rash,10,,,
+,,,,
+,,,,
+,,,,+100%
+Rising searches for fever,,,,+60%
+wiz khalifa,+400%,,,+50%
+cabin fever 2,+200%,,,+50%
+102 fever,+70%,,,+50%
+toddler fever,+70%,,,+50%
+baby fever,+60%,,,+40%
+fever headache,+60%,,,+40%
+103 fever,+50%,,,+40%
+cabin fever,+50%,,,+40%
+fever blister,+50%,,,
+sore throat,+50%,,,

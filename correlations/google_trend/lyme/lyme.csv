@@ -1,0 +1,522 @@
+Week,poison oak,lyme disease,lyme,lyme symptoms
+2010-12-05 - 2010-12-11,10,27,33,25
+2010-12-12 - 2010-12-18,9,23,29,22
+2010-12-19 - 2010-12-25,8,20,27,18
+2010-12-26 - 2011-01-01,10,21,29,24
+2011-01-02 - 2011-01-08,12,28,36,26
+2011-01-09 - 2011-01-15,12,25,33,24
+2011-01-16 - 2011-01-22,13,28,34,25
+2011-01-23 - 2011-01-29,12,26,33,22
+2011-01-30 - 2011-02-05,12,26,33,24
+2011-02-06 - 2011-02-12,14,28,34,23
+2011-02-13 - 2011-02-19,17,29,36,25
+2011-02-20 - 2011-02-26,17,31,38,29
+2011-02-27 - 2011-03-05,15,33,39,30
+2011-03-06 - 2011-03-12,18,31,38,27
+2011-03-13 - 2011-03-19,21,35,41,33
+2011-03-20 - 2011-03-26,24,37,42,35
+2011-03-27 - 2011-04-02,25,37,43,33
+2011-04-03 - 2011-04-09,32,40,47,34
+2011-04-10 - 2011-04-16,43,47,52,45
+2011-04-17 - 2011-04-23,48,49,54,46
+2011-04-24 - 2011-04-30,53,54,60,53
+2011-05-01 - 2011-05-07,60,59,66,60
+2011-05-08 - 2011-05-14,69,69,75,72
+2011-05-15 - 2011-05-21,59,78,81,77
+2011-05-22 - 2011-05-28,71,93,95,87
+2011-05-29 - 2011-06-04,94,96,98,100
+2011-06-05 - 2011-06-11,83,83,87,92
+2011-06-12 - 2011-06-18,81,81,86,93
+2011-06-19 - 2011-06-25,81,85,87,95
+2011-06-26 - 2011-07-02,86,86,92,95
+2011-07-03 - 2011-07-09,92,82,87,86
+2011-07-10 - 2011-07-16,81,83,86,89
+2011-07-17 - 2011-07-23,68,78,83,79
+2011-07-24 - 2011-07-30,67,68,74,78
+2011-07-31 - 2011-08-06,64,64,70,68
+2011-08-07 - 2011-08-13,64,59,64,68
+2011-08-14 - 2011-08-20,56,60,64,64
+2011-08-21 - 2011-08-27,53,59,64,64
+2011-08-28 - 2011-09-03,51,53,57,62
+2011-09-04 - 2011-09-10,44,51,55,55
+2011-09-11 - 2011-09-17,39,55,60,58
+2011-09-18 - 2011-09-24,37,46,50,52
+2011-09-25 - 2011-10-01,34,47,51,48
+2011-10-02 - 2011-10-08,27,45,49,48
+2011-10-09 - 2011-10-15,31,46,52,44
+2011-10-16 - 2011-10-22,25,47,52,31
+2011-10-23 - 2011-10-29,22,48,53,29
+2011-10-30 - 2011-11-05,20,42,47,25
+2011-11-06 - 2011-11-12,19,45,50,29
+2011-11-13 - 2011-11-19,17,47,53,29
+2011-11-20 - 2011-11-26,16,41,45,29
+2011-11-27 - 2011-12-03,16,50,53,36
+2011-12-04 - 2011-12-10,12,43,46,32
+2011-12-11 - 2011-12-17,12,34,40,30
+2011-12-18 - 2011-12-24,12,31,38,28
+2011-12-25 - 2011-12-31,13,30,36,29
+2012-01-01 - 2012-01-07,15,33,39,29
+2012-01-08 - 2012-01-14,14,33,40,31
+2012-01-15 - 2012-01-21,12,31,37,28
+2012-01-22 - 2012-01-28,10,31,37,28
+2012-01-29 - 2012-02-04,13,33,39,27
+2012-02-05 - 2012-02-11,14,37,42,30
+2012-02-12 - 2012-02-18,14,32,37,27
+2012-02-19 - 2012-02-25,17,34,40,30
+2012-02-26 - 2012-03-03,16,37,43,23
+2012-03-04 - 2012-03-10,18,38,44,22
+2012-03-11 - 2012-03-17,24,41,47,24
+2012-03-18 - 2012-03-24,30,52,56,31
+2012-03-25 - 2012-03-31,35,56,60,36
+2012-04-01 - 2012-04-07,48,56,60,38
+2012-04-08 - 2012-04-14,49,72,71,62
+2012-04-15 - 2012-04-21,59,70,73,68
+2012-04-22 - 2012-04-28,56,67,69,65
+2012-04-29 - 2012-05-05,64,70,72,68
+2012-05-06 - 2012-05-12,66,76,78,79
+2012-05-13 - 2012-05-19,78,82,85,85
+2012-05-20 - 2012-05-26,84,87,90,87
+2012-05-27 - 2012-06-02,100,89,90,94
+2012-06-03 - 2012-06-09,86,82,82,83
+2012-06-10 - 2012-06-16,83,81,84,79
+2012-06-17 - 2012-06-23,85,80,85,75
+2012-06-24 - 2012-06-30,76,81,82,63
+2012-07-01 - 2012-07-07,75,73,78,58
+2012-07-08 - 2012-07-14,72,73,79,58
+2012-07-15 - 2012-07-21,64,71,77,52
+2012-07-22 - 2012-07-28,62,65,71,49
+2012-07-29 - 2012-08-04,64,64,69,48
+2012-08-05 - 2012-08-11,61,60,64,47
+2012-08-12 - 2012-08-18,57,58,64,47
+2012-08-19 - 2012-08-25,55,58,64,54
+2012-08-26 - 2012-09-01,50,57,61,54
+2012-09-02 - 2012-09-08,50,53,58,53
+2012-09-09 - 2012-09-15,40,50,54,47
+2012-09-16 - 2012-09-22,37,46,52,42
+2012-09-23 - 2012-09-29,33,46,51,44
+2012-09-30 - 2012-10-06,28,44,49,44
+2012-10-07 - 2012-10-13,26,40,45,40
+2012-10-14 - 2012-10-20,24,43,49,45
+2012-10-21 - 2012-10-27,21,46,50,43
+2012-10-28 - 2012-11-03,18,37,50,37
+2012-11-04 - 2012-11-10,18,36,41,35
+2012-11-11 - 2012-11-17,18,42,46,40
+2012-11-18 - 2012-11-24,17,35,40,34
+2012-11-25 - 2012-12-01,16,37,42,33
+2012-12-02 - 2012-12-08,12,38,44,33
+2012-12-09 - 2012-12-15,11,35,41,27
+2012-12-16 - 2012-12-22,10,28,34,23
+2012-12-23 - 2012-12-29,11,24,30,20
+2012-12-30 - 2013-01-05,12,25,32,21
+2013-01-06 - 2013-01-12,11,29,34,24
+2013-01-13 - 2013-01-19,10,30,36,23
+2013-01-20 - 2013-01-26,15,28,33,21
+2013-01-27 - 2013-02-02,12,39,43,33
+2013-02-03 - 2013-02-09,11,29,36,24
+2013-02-10 - 2013-02-16,14,29,36,24
+2013-02-17 - 2013-02-23,16,29,35,24
+2013-02-24 - 2013-03-02,15,30,36,26
+2013-03-03 - 2013-03-09,17,30,36,25
+2013-03-10 - 2013-03-16,22,34,41,28
+2013-03-17 - 2013-03-23,24,38,42,30
+2013-03-24 - 2013-03-30,25,85,81,57
+2013-03-31 - 2013-04-06,31,49,52,43
+2013-04-07 - 2013-04-13,37,48,52,43
+2013-04-14 - 2013-04-20,44,49,51,44
+2013-04-21 - 2013-04-27,54,54,58,49
+2013-04-28 - 2013-05-04,59,63,66,54
+2013-05-05 - 2013-05-11,66,66,68,56
+2013-05-12 - 2013-05-18,73,71,73,60
+2013-05-19 - 2013-05-25,81,77,77,66
+2013-05-26 - 2013-06-01,100,81,83,70
+2013-06-02 - 2013-06-08,92,88,87,72
+2013-06-09 - 2013-06-15,87,87,89,67
+2013-06-16 - 2013-06-22,89,89,89,70
+2013-06-23 - 2013-06-29,87,96,98,75
+2013-06-30 - 2013-07-06,93,89,94,77
+2013-07-07 - 2013-07-13,89,99,98,92
+2013-07-14 - 2013-07-20,78,85,90,74
+2013-07-21 - 2013-07-27,72,78,82,73
+2013-07-28 - 2013-08-03,71,73,77,67
+2013-08-04 - 2013-08-10,70,71,75,63
+2013-08-11 - 2013-08-17,66,67,70,62
+2013-08-18 - 2013-08-24,60,100,100,93
+2013-08-25 - 2013-08-31,53,67,71,61
+2013-09-01 - 2013-09-07,52,59,63,55
+2013-09-08 - 2013-09-14,43,56,60,49
+2013-09-15 - 2013-09-21,37,51,56,44
+2013-09-22 - 2013-09-28,34,48,52,39
+2013-09-29 - 2013-10-05,36,47,53,41
+2013-10-06 - 2013-10-12,32,54,59,45
+2013-10-13 - 2013-10-19,27,52,56,40
+2013-10-20 - 2013-10-26,23,50,55,39
+2013-10-27 - 2013-11-02,21,46,52,38
+2013-11-03 - 2013-11-09,19,55,58,43
+2013-11-10 - 2013-11-16,16,66,68,49
+2013-11-17 - 2013-11-23,16,56,59,42
+2013-11-24 - 2013-11-30,14,38,43,28
+2013-12-01 - 2013-12-07,12,39,43,31
+2013-12-08 - 2013-12-14,8,36,41,26
+2013-12-15 - 2013-12-21,9,38,42,28
+2013-12-22 - 2013-12-28,12,34,38,25
+2013-12-29 - 2014-01-04,12,32,39,26
+2014-01-05 - 2014-01-11,13,31,37,26
+2014-01-12 - 2014-01-18,11,31,38,25
+2014-01-19 - 2014-01-25,13,30,36,23
+2014-01-26 - 2014-02-01,12,31,38,23
+2014-02-02 - 2014-02-08,10,30,37,23
+2014-02-09 - 2014-02-15,10,37,41,27
+2014-02-16 - 2014-02-22,15,37,41,29
+2014-02-23 - 2014-03-01,16,35,41,27
+,,,,
+,,,,
+Top subregions for poison oak,,,,
+Subregion,poison oak,lyme disease,lyme,lyme symptoms
+Oregon,100,100,100,100
+California,80,94,56,99
+Alabama,77,91,51,78
+Tennessee,75,78,41,76
+West Virginia,75,68,38,68
+North Carolina,71,65,33,66
+South Carolina,67,51,21,49
+Kentucky,63,48,19,45
+Arkansas,61,47,19,43
+Missouri,60,45,18,42
+Mississippi,57,42,18,38
+Georgia,56,39,17,37
+Indiana,56,37,16,32
+Ohio,56,34,13,29
+Oklahoma,55,33,13,29
+Louisiana,54,31,12,28
+Virginia,49,29,11,27
+Kansas,48,29,11,27
+Pennsylvania,48,28,11,27
+District of Columbia,45,28,10,25
+Michigan,45,27,10,25
+Iowa,42,27,10,24
+Washington,42,26,10,24
+New Hampshire,42,25,10,24
+Massachusetts,39,25,10,22
+Texas,39,24,9,22
+Connecticut,38,24,9,22
+Maine,38,24,9,20
+Minnesota,37,24,9,19
+Illinois,37,22,9,19
+Maryland,35,22,9,19
+Wisconsin,35,22,9,19
+New Jersey,32,22,9,17
+Nebraska,31,22,8,17
+New York,27,22,8,16
+Florida,24,20,8,13
+Utah,20,20,8,13
+Colorado,19,20,8,12
+Nevada,17,20,8,12
+Arizona,13,19,8,12
+Alaska,0,18,7,11
+Delaware,0,17,7,11
+Hawaii,0,17,7,11
+Idaho,0,16,7,0
+Montana,0,16,7,0
+North Dakota,0,16,7,0
+New Mexico,0,16,6,0
+Rhode Island,0,15,6,0
+South Dakota,0,15,6,0
+Vermont,0,12,6,0
+Wyoming,0,0,5,0
+,,,,
+,,,,
+Top metros for poison oak,,,,
+Metro,poison oak,lyme disease,lyme,lyme symptoms
+San Francisco-Oakland-San Jose CA,100,100,100,100
+Sacramento-Stockton-Modesto CA,87,87,49,86
+Nashville TN,69,84,35,83
+Charlotte NC,65,84,34,53
+Portland OR,59,83,30,52
+Cleveland-Akron (Canton) OH,50,79,28,50
+St. Louis MO,49,75,28,44
+Atlanta GA,45,73,24,36
+San Diego CA,44,72,23,30
+Dallas-Ft. Worth TX,38,66,20,23
+Seattle-Tacoma WA,35,56,20,23
+Detroit MI,34,53,16,17
+Philadelphia PA,33,47,15,16
+Los Angeles CA,32,46,15,12
+Minneapolis-St. Paul MN,32,45,15,0
+Boston MA-Manchester NH,31,44,13,0
+Washington DC (Hagerstown MD),31,44,13,0
+Houston TX,30,37,13,0
+Chicago IL,29,36,11,0
+New York NY,21,36,11,0
+Portland-Auburn ME,0,34,10,0
+Binghamton NY,0,34,10,0
+Macon GA,0,34,10,0
+Savannah GA,0,31,10,0
+Pittsburgh PA,0,30,10,0
+Ft. Wayne IN,0,30,9,0
+Baltimore MD,0,29,9,0
+Flint-Saginaw-Bay City MI,0,29,9,0
+Buffalo NY,0,28,8,0
+Cincinnati OH,0,25,8,0
+Erie PA,0,24,8,0
+Greensboro-High Point-Winston Salem NC,0,24,7,0
+Charleston SC,0,23,7,0
+Augusta GA,0,23,7,0
+Providence RI-New Bedford MA,0,23,7,0
+Columbus GA,0,23,7,0
+Burlington VT-Plattsburgh NY,0,23,7,0
+Albany GA,0,23,7,0
+Utica NY,0,22,7,0
+Indianapolis IN,0,22,7,0
+Miami-Ft. Lauderdale FL,0,21,6,0
+Louisville KY,0,21,6,0
+Tallahassee FL-Thomasville GA,0,20,6,0
+Tri-Cities TN-VA,0,20,6,0
+Albany-Schenectady-Troy NY,0,19,6,0
+Hartford & New Haven CT,0,19,6,0
+Orlando-Daytona Beach-Melbourne FL,0,19,6,0
+Columbus OH,0,18,6,0
+Youngstown OH,0,18,6,0
+Bangor ME,0,18,6,0
+Rochester NY,0,18,6,0
+Tampa-St. Petersburg (Sarasota) FL,0,16,5,0
+Traverse City-Cadillac MI,0,16,5,0
+Lexington KY,0,16,5,0
+Dayton OH,0,15,5,0
+Springfield-Holyoke MA,0,15,5,0
+Norfolk-Portsmouth-Newport News VA,0,15,5,0
+Greenville-New Bern-Washington NC,0,14,5,0
+Columbia SC,0,0,4,0
+Toledo OH,0,0,0,0
+West Palm Beach-Ft. Pierce FL,0,0,0,0
+Watertown NY,0,0,0,0
+Wilmington NC,0,0,0,0
+Lansing MI,0,0,0,0
+Presque Isle ME,0,0,0,0
+Marquette MI,0,0,0,0
+Wheeling WV-Steubenville OH,0,0,0,0
+Syracuse NY,0,0,0,0
+Richmond-Petersburg VA,0,0,0,0
+Knoxville TN,0,0,0,0
+Lima OH,0,0,0,0
+Bluefield-Beckley-Oak Hill WV,0,0,0,0
+Raleigh-Durham (Fayetteville) NC,0,0,0,0
+Jacksonville FL,0,0,0,0
+Grand Rapids-Kalamazoo-Battle Creek MI,0,0,0,0
+Charleston-Huntington WV,0,0,0,0
+Elmira NY,0,0,0,0
+Harrisburg-Lancaster-Lebanon-York PA,0,0,0,0
+Greenville-Spartanburg SC-Asheville NC-Anderson SC,0,0,0,0
+Harrisonburg VA,0,0,0,0
+Florence-Myrtle Beach SC,0,0,0,0
+Ft. Myers-Naples FL,0,0,0,0
+Roanoke-Lynchburg VA,0,0,0,0
+Johnstown-Altoona PA,0,0,0,0
+Chattanooga TN,0,0,0,0
+Salisbury MD,0,0,0,0
+Wilkes Barre-Scranton PA,0,0,0,0
+Terre Haute IN,0,0,0,0
+Lafayette IN,0,0,0,0
+Alpena MI,0,0,0,0
+Charlottesville VA,0,0,0,0
+South Bend-Elkhart IN,0,0,0,0
+Gainesville FL,0,0,0,0
+Zanesville OH,0,0,0,0
+Parkersburg WV,0,0,0,0
+Clarksburg-Weston WV,0,0,0,0
+Corpus Christi TX,0,0,0,0
+Joplin MO-Pittsburg KS,0,0,0,0
+Columbia-Jefferson City MO,0,0,0,0
+Topeka KS,0,0,0,0
+Dothan AL,0,0,0,0
+Rockford IL,0,0,0,0
+Rochester MN-Mason City IA-Austin MN,0,0,0,0
+Shreveport LA,0,0,0,0
+Kansas City MO,0,0,0,0
+Milwaukee WI,0,0,0,0
+Springfield MO,0,0,0,0
+New Orleans LA,0,0,0,0
+Sioux City IA,0,0,0,0
+Waco-Temple-Bryan TX,0,0,0,0
+Victoria TX,0,0,0,0
+Wichita Falls TX & Lawton OK,0,0,0,0
+Monroe LA-El Dorado AR,0,0,0,0
+Birmingham AL,0,0,0,0
+Ottumwa IA-Kirksville MO,0,0,0,0
+Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,0,0,0,0
+Odessa-Midland TX,0,0,0,0
+Amarillo TX,0,0,0,0
+Austin TX,0,0,0,0
+Harlingen-Weslaco-Brownsville-McAllen TX,0,0,0,0
+Cedar Rapids-Waterloo-Iowa City & Dubuque IA,0,0,0,0
+St. Joseph MO,0,0,0,0
+Jackson TN,0,0,0,0
+Memphis TN,0,0,0,0
+San Antonio TX,0,0,0,0
+Lafayette LA,0,0,0,0
+Lake Charles LA,0,0,0,0
+Alexandria LA,0,0,0,0
+Greenwood-Greenville MS,0,0,0,0
+Champaign & Springfield-Decatur IL,0,0,0,0
+Evansville IN,0,0,0,0
+Oklahoma City OK,0,0,0,0
+Lubbock TX,0,0,0,0
+Omaha NE,0,0,0,0
+Panama City FL,0,0,0,0
+Sherman TX-Ada OK,0,0,0,0
+Green Bay-Appleton WI,0,0,0,0
+San Angelo TX,0,0,0,0
+Abilene-Sweetwater TX,0,0,0,0
+Madison WI,0,0,0,0
+Ft. Smith-Fayetteville-Springdale-Rogers AR,0,0,0,0
+Tulsa OK,0,0,0,0
+Columbus-Tupelo-West Point MS,0,0,0,0
+Peoria-Bloomington IL,0,0,0,0
+Duluth MN-Superior WI,0,0,0,0
+Wichita-Hutchinson KS,0,0,0,0
+Des Moines-Ames IA,0,0,0,0
+Davenport IA-Rock Island-Moline IL,0,0,0,0
+Mobile AL-Pensacola (Ft. Walton Beach) FL,0,0,0,0
+Minot-Bismarck-Dickinson(Williston) ND,0,0,0,0
+Huntsville-Decatur (Florence) AL,0,0,0,0
+Beaumont-Port Arthur TX,0,0,0,0
+Little Rock-Pine Bluff AR,0,0,0,0
+Montgomery (Selma) AL,0,0,0,0
+La Crosse-Eau Claire WI,0,0,0,0
+Wausau-Rhinelander WI,0,0,0,0
+Tyler-Longview(Lufkin & Nacogdoches) TX,0,0,0,0
+Hattiesburg-Laurel MS,0,0,0,0
+Meridian MS,0,0,0,0
+Baton Rouge LA,0,0,0,0
+Quincy IL-Hannibal MO-Keokuk IA,0,0,0,0
+Jackson MS,0,0,0,0
+Lincoln & Hastings-Kearney NE,0,0,0,0
+Fargo-Valley City ND,0,0,0,0
+Sioux Falls(Mitchell) SD,0,0,0,0
+Jonesboro AR,0,0,0,0
+Bowling Green KY,0,0,0,0
+Mankato MN,0,0,0,0
+North Platte NE,0,0,0,0
+Anchorage AK,0,0,0,0
+Honolulu HI,0,0,0,0
+Fairbanks AK,0,0,0,0
+Biloxi-Gulfport MS,0,0,0,0
+Juneau AK,0,0,0,0
+Laredo TX,0,0,0,0
+Denver CO,0,0,0,0
+Colorado Springs-Pueblo CO,0,0,0,0
+Phoenix AZ,0,0,0,0
+Butte-Bozeman MT,0,0,0,0
+Great Falls MT,0,0,0,0
+Billings MT,0,0,0,0
+Boise ID,0,0,0,0
+Idaho Falls-Pocatello ID,0,0,0,0
+Cheyenne WY-Scottsbluff NE,0,0,0,0
+Twin Falls ID,0,0,0,0
+Missoula MT,0,0,0,0
+Rapid City SD,0,0,0,0
+El Paso TX,0,0,0,0
+Helena MT,0,0,0,0
+Casper-Riverton WY,0,0,0,0
+Salt Lake City UT,0,0,0,0
+Yuma AZ-El Centro CA,0,0,0,0
+Grand Junction-Montrose CO,0,0,0,0
+Tucson (Sierra Vista) AZ,0,0,0,0
+Albuquerque-Santa Fe NM,0,0,0,0
+Glendive MT,0,0,0,0
+Bakersfield CA,0,0,0,0
+Eugene OR,0,0,0,0
+Eureka CA,0,0,0,0
+Palm Springs CA,0,0,0,0
+Yakima-Pasco-Richland-Kennewick WA,0,0,0,0
+Reno NV,0,0,0,0
+Medford-Klamath Falls OR,0,0,0,0
+Bend OR,0,0,0,0
+Monterey-Salinas CA,0,0,0,0
+Las Vegas NV,0,0,0,0
+Santa Barbara-Santa Maria-San Luis Obispo CA,0,0,0,0
+Fresno-Visalia CA,0,0,0,0
+Chico-Redding CA,0,0,0,0
+Spokane WA,0,0,0,0
+,,,,
+,,,,
+Top cities for poison oak,,,,
+City,poison oak,lyme disease,lyme,lyme symptoms
+Eugene,100,100,100,100
+Santa Barbara,96,97,88,99
+San Francisco,58,74,22,70
+Oakland,56,69,2,66
+Sacramento,43,68,2,62
+San Jose,36,67,1,58
+Portland,32,63,1,48
+Charlotte,28,51,0,43
+St. Louis,26,46,0,40
+Nashville,25,41,0,37
+Seattle,24,36,0,34
+Atlanta,24,35,0,31
+Columbus,23,34,0,26
+Indianapolis,21,33,0,23
+San Diego,20,29,0,23
+,,,,
+,,,,
+,,,,
+Top searches for poison oak,,,,
+poison ivy oak,100,100,100,100
+poison ivy,100,25,25,100
+poison oak rash,50,25,25,35
+poison oak pictures,50,20,25,5
+poison sumac,30,20,10,5
+sumac,30,15,5,5
+poison oak treatment,20,15,5,5
+poison ivy rash,20,10,5,5
+poison ivy pictures,20,10,5,0
+poison sumac pictures,10,10,5,0
+poison oak remedies,10,10,5,0
+poison oak contagious,10,5,5,0
+poison sumac rash,10,5,5,0
+sumac rash,5,5,5,0
+poison oak plant,5,5,5,0
+poison ivy treatment,5,5,5,0
+poison plants,5,5,5,0
+poison oak leaves,5,5,5,0
+treat poison oak,5,5,5,0
+poison oak symptoms,5,5,5,0
+poison oak images,5,5,0,0
+poison oak lyrics,5,5,0,0
+poison oak tree,5,5,0,0
+poison oak picture,5,0,0,0
+poison oak spread,5,0,0,0
+poison oak cure,5,0,0,0
+poison oak rashes,5,0,0,0
+poison oak remedy,5,0,0,0
+poison oak vine,5,0,0,0
+poison oak leaf,5,0,0,0
+posion oak,5,0,0,0
+poison ivy leaves,5,0,0,0
+virginia creeper,5,0,0,0
+poison ivy plant,5,0,0,0
+poison oak blisters,5,0,0,
+poison oak pics,5,0,0,
+poison oak photos,5,0,0,
+poison ivy remedies,0,0,0,
+poison ivy images,0,,0,+170%
+poison oak reaction,0,,0,+60%
+prednisone poison oak,0,,0,+60%
+poison oak oil,0,,0,+50%
+poision oak,0,Breakout,0,+50%
+california poison oak,0,Breakout,0,
+posion ivy,0,+70%,0,
+poison ivy picture,0,+50%,0,
+treating poison oak,0,+40%,0,
+poisonous plants,0,+40%,0,
+poison oak spreading,0,,0,
+poison ivy symptoms,0,,0,
+,,,,
+,,,,
+,,,,
+Rising searches for poison oak,,,,
+poison ivy images,+150%,,Breakout,
+poison oak images,+120%,,+80%,
+poison oak image,+50%,,+40%,
+poison ivy leaves,+40%,,,
+poison oak leaves,+40%,,,
+poison oak shot,+40%,,,

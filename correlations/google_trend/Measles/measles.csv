@@ -1,0 +1,535 @@
+Week,measles,measles vaccine,MMR vaccine,influenza
+2010-11-07 - 2010-11-13,20,0,43,20
+2010-11-14 - 2010-11-20,20,28,47,21
+2010-11-21 - 2010-11-27,16,28,34,14
+2010-11-28 - 2010-12-04,21,28,41,21
+2010-12-05 - 2010-12-11,18,28,36,21
+2010-12-12 - 2010-12-18,16,28,41,20
+2010-12-19 - 2010-12-25,13,28,32,17
+2010-12-26 - 2011-01-01,14,29,29,16
+2011-01-02 - 2011-01-08,24,29,65,22
+2011-01-09 - 2011-01-15,20,25,49,23
+2011-01-16 - 2011-01-22,19,26,50,28
+2011-01-23 - 2011-01-29,20,32,49,34
+2011-01-30 - 2011-02-05,25,26,44,34
+2011-02-06 - 2011-02-12,25,25,47,37
+2011-02-13 - 2011-02-19,26,32,49,42
+2011-02-20 - 2011-02-26,43,39,48,38
+2011-02-27 - 2011-03-05,81,61,57,36
+2011-03-06 - 2011-03-12,30,27,45,31
+2011-03-13 - 2011-03-19,25,27,40,25
+2011-03-20 - 2011-03-26,28,23,48,21
+2011-03-27 - 2011-04-02,27,28,49,19
+2011-04-03 - 2011-04-09,40,32,48,18
+2011-04-10 - 2011-04-16,38,32,50,17
+2011-04-17 - 2011-04-23,36,35,48,14
+2011-04-24 - 2011-04-30,39,38,52,14
+2011-05-01 - 2011-05-07,39,30,52,14
+2011-05-08 - 2011-05-14,40,39,57,12
+2011-05-15 - 2011-05-21,32,28,52,12
+2011-05-22 - 2011-05-28,49,47,57,10
+2011-05-29 - 2011-06-04,48,41,52,9
+2011-06-05 - 2011-06-11,35,39,53,9
+2011-06-12 - 2011-06-18,32,37,56,8
+2011-06-19 - 2011-06-25,28,28,58,7
+2011-06-26 - 2011-07-02,25,30,52,7
+2011-07-03 - 2011-07-09,24,27,47,7
+2011-07-10 - 2011-07-16,23,32,53,7
+2011-07-17 - 2011-07-23,23,23,54,8
+2011-07-24 - 2011-07-30,25,25,54,7
+2011-07-31 - 2011-08-06,20,29,57,7
+2011-08-07 - 2011-08-13,20,35,57,8
+2011-08-14 - 2011-08-20,21,28,55,8
+2011-08-21 - 2011-08-27,23,20,53,9
+2011-08-28 - 2011-09-03,21,26,47,11
+2011-09-04 - 2011-09-10,25,28,47,13
+2011-09-11 - 2011-09-17,28,29,51,17
+2011-09-18 - 2011-09-24,28,26,44,18
+2011-09-25 - 2011-10-01,24,28,46,19
+2011-10-02 - 2011-10-08,23,32,54,19
+2011-10-09 - 2011-10-15,23,32,50,19
+2011-10-16 - 2011-10-22,23,23,47,18
+2011-10-23 - 2011-10-29,28,31,45,20
+2011-10-30 - 2011-11-05,23,24,48,19
+2011-11-06 - 2011-11-12,24,30,49,17
+2011-11-13 - 2011-11-19,23,26,48,18
+2011-11-20 - 2011-11-26,19,20,36,14
+2011-11-27 - 2011-12-03,26,36,44,18
+2011-12-04 - 2011-12-10,24,34,42,16
+2011-12-11 - 2011-12-17,21,21,43,14
+2011-12-18 - 2011-12-24,16,21,34,11
+2011-12-25 - 2011-12-31,16,19,30,10
+2012-01-01 - 2012-01-07,18,23,37,13
+2012-01-08 - 2012-01-14,19,23,43,15
+2012-01-15 - 2012-01-21,20,25,44,14
+2012-01-22 - 2012-01-28,24,21,44,16
+2012-01-29 - 2012-02-04,24,24,43,18
+2012-02-05 - 2012-02-11,51,44,50,19
+2012-02-12 - 2012-02-18,50,50,47,23
+2012-02-19 - 2012-02-25,37,34,45,24
+2012-02-26 - 2012-03-03,31,33,43,25
+2012-03-04 - 2012-03-10,24,20,42,27
+2012-03-11 - 2012-03-17,24,24,40,26
+2012-03-18 - 2012-03-24,28,32,45,24
+2012-03-25 - 2012-03-31,24,24,48,21
+2012-04-01 - 2012-04-07,23,30,43,17
+2012-04-08 - 2012-04-14,26,30,44,18
+2012-04-15 - 2012-04-21,44,45,53,17
+2012-04-22 - 2012-04-28,35,32,51,16
+2012-04-29 - 2012-05-05,29,33,48,16
+2012-05-06 - 2012-05-12,26,30,51,15
+2012-05-13 - 2012-05-19,28,30,48,13
+2012-05-20 - 2012-05-26,25,24,48,11
+2012-05-27 - 2012-06-02,25,28,43,10
+2012-06-03 - 2012-06-09,23,30,49,9
+2012-06-10 - 2012-06-16,22,24,47,9
+2012-06-17 - 2012-06-23,21,26,56,9
+2012-06-24 - 2012-06-30,21,24,52,9
+2012-07-01 - 2012-07-07,21,22,45,6
+2012-07-08 - 2012-07-14,22,26,53,7
+2012-07-15 - 2012-07-21,22,28,54,7
+2012-07-22 - 2012-07-28,21,26,55,8
+2012-07-29 - 2012-08-04,19,27,56,8
+2012-08-05 - 2012-08-11,21,24,51,8
+2012-08-12 - 2012-08-18,20,30,55,9
+2012-08-19 - 2012-08-25,20,24,58,10
+2012-08-26 - 2012-09-01,22,23,54,11
+2012-09-02 - 2012-09-08,22,23,48,13
+2012-09-09 - 2012-09-15,22,26,46,16
+2012-09-16 - 2012-09-22,22,25,45,18
+2012-09-23 - 2012-09-29,24,28,46,19
+2012-09-30 - 2012-10-06,21,22,47,18
+2012-10-07 - 2012-10-13,21,25,42,19
+2012-10-14 - 2012-10-20,20,24,45,19
+2012-10-21 - 2012-10-27,20,25,43,19
+2012-10-28 - 2012-11-03,20,21,41,17
+2012-11-04 - 2012-11-10,21,26,39,18
+2012-11-11 - 2012-11-17,21,25,45,21
+2012-11-18 - 2012-11-24,19,19,34,17
+2012-11-25 - 2012-12-01,21,25,43,24
+2012-12-02 - 2012-12-08,21,30,50,33
+2012-12-09 - 2012-12-15,21,29,41,34
+2012-12-16 - 2012-12-22,17,18,37,40
+2012-12-23 - 2012-12-29,15,18,26,44
+2012-12-30 - 2013-01-05,16,16,32,54
+2013-01-06 - 2013-01-12,18,24,46,100
+2013-01-13 - 2013-01-19,20,25,53,82
+2013-01-20 - 2013-01-26,22,25,45,58
+2013-01-27 - 2013-02-02,25,29,45,47
+2013-02-03 - 2013-02-09,24,22,43,38
+2013-02-10 - 2013-02-16,21,21,41,32
+2013-02-17 - 2013-02-23,21,26,43,29
+2013-02-24 - 2013-03-02,22,22,43,28
+2013-03-03 - 2013-03-09,23,26,42,25
+2013-03-10 - 2013-03-16,28,33,45,24
+2013-03-17 - 2013-03-23,23,29,44,20
+2013-03-24 - 2013-03-30,21,27,42,20
+2013-03-31 - 2013-04-06,22,26,51,20
+2013-04-07 - 2013-04-13,24,32,51,19
+2013-04-14 - 2013-04-20,30,33,47,17
+2013-04-21 - 2013-04-27,28,36,52,17
+2013-04-28 - 2013-05-04,28,38,56,15
+2013-05-05 - 2013-05-11,27,34,54,13
+2013-05-12 - 2013-05-18,25,26,53,11
+2013-05-19 - 2013-05-25,26,31,54,10
+2013-05-26 - 2013-06-01,23,29,50,10
+2013-06-02 - 2013-06-08,24,31,58,8
+2013-06-09 - 2013-06-15,28,33,61,9
+2013-06-16 - 2013-06-22,25,26,54,8
+2013-06-23 - 2013-06-29,21,27,56,8
+2013-06-30 - 2013-07-06,21,27,52,6
+2013-07-07 - 2013-07-13,20,27,59,7
+2013-07-14 - 2013-07-20,23,26,59,8
+2013-07-21 - 2013-07-27,29,34,58,7
+2013-07-28 - 2013-08-03,20,32,100,7
+2013-08-04 - 2013-08-10,19,31,97,7
+2013-08-11 - 2013-08-17,30,46,87,8
+2013-08-18 - 2013-08-24,57,70,78,9
+2013-08-25 - 2013-08-31,81,81,72,12
+2013-09-01 - 2013-09-07,46,48,70,14
+2013-09-08 - 2013-09-14,52,63,69,16
+2013-09-15 - 2013-09-21,37,52,67,18
+2013-09-22 - 2013-09-28,31,35,63,20
+2013-09-29 - 2013-10-05,27,34,59,20
+2013-10-06 - 2013-10-12,23,28,55,21
+2013-10-13 - 2013-10-19,24,30,61,22
+2013-10-20 - 2013-10-26,25,28,58,21
+2013-10-27 - 2013-11-02,24,27,60,21
+2013-11-03 - 2013-11-09,25,32,70,19
+2013-11-10 - 2013-11-16,25,30,78,21
+2013-11-17 - 2013-11-23,25,32,77,21
+2013-11-24 - 2013-11-30,21,26,54,15
+2013-12-01 - 2013-12-07,31,37,55,21
+2013-12-08 - 2013-12-14,30,40,53,23
+2013-12-15 - 2013-12-21,20,26,53,28
+2013-12-22 - 2013-12-28,16,16,44,33
+2013-12-29 - 2014-01-04,16,18,52,42
+2014-01-05 - 2014-01-11,23,30,61,50
+2014-01-12 - 2014-01-18,22,31,67,52
+2014-01-19 - 2014-01-25,25,29,65,44
+2014-01-26 - 2014-02-01,26,38,61,40
+2014-02-02 - 2014-02-08,35,35,54,32
+2014-02-09 - 2014-02-15,62,67,54,27
+2014-02-16 - 2014-02-22,41,49,56,25
+2014-02-23 - 2014-03-01,69,72,63,24
+2014-03-02 - 2014-03-08,56,51,59,20
+2014-03-09 - 2014-03-15,82,95,71,18
+2014-03-16 - 2014-03-22,71,94,65,17
+2014-03-23 - 2014-03-29,71,79,78,19
+2014-03-30 - 2014-04-05,100,100,71,18
+,,,,
+,,,,
+Top subregions for measles,,,,
+Subregion,measles,measles vaccine,MMR vaccine,influenza
+Indiana,100,100,100,100
+Utah,81,79,81,72
+Massachusetts,81,78,80,61
+Hawaii,76,72,79,55
+Mississippi,70,70,78,49
+Arkansas,69,70,73,45
+West Virginia,67,66,71,44
+Louisiana,66,64,71,37
+Oklahoma,64,61,70,37
+New Hampshire,63,60,69,32
+Washington,62,58,68,31
+Kansas,61,52,68,30
+Texas,61,51,67,30
+New Mexico,61,0,66,29
+Minnesota,60,0,66,28
+New York,60,0,66,27
+Rhode Island,60,0,65,27
+Idaho,60,0,63,26
+New Jersey,60,0,63,26
+Wisconsin,60,0,63,25
+Connecticut,59,0,63,24
+Kentucky,58,0,62,24
+Pennsylvania,58,0,62,24
+Maine,58,0,61,23
+Oregon,57,0,60,23
+Alabama,57,0,60,23
+Tennessee,57,0,59,22
+Arizona,57,0,59,22
+Iowa,57,0,59,22
+North Carolina,56,0,59,21
+California,56,0,58,21
+Maryland,55,0,58,21
+Missouri,55,0,57,21
+District of Columbia,54,0,57,21
+Illinois,54,0,57,21
+Michigan,54,0,57,21
+Georgia,53,0,57,21
+Nevada,53,0,56,20
+Colorado,53,0,56,20
+Ohio,52,0,55,19
+South Carolina,50,0,54,19
+Nebraska,49,0,54,19
+Virginia,49,0,54,19
+Florida,48,0,51,19
+Alaska,0,0,0,19
+Delaware,0,0,0,19
+Montana,0,0,0,19
+North Dakota,0,0,0,17
+South Dakota,0,0,0,17
+Vermont,0,0,0,17
+Wyoming,0,0,0,16
+,,,,
+,,,,
+Top metros for measles,,,,
+Metro,measles,,MMR vaccine,influenza
+Indianapolis IN,100,,100,100
+Boston MA-Manchester NH,66,measles vaccine,81,89
+Dallas-Ft. Worth TX,58,100,81,77
+Seattle-Tacoma WA,53,,80,68
+San Francisco-Oakland-San Jose CA,49,,78,59
+New York NY,49,,75,59
+Phoenix AZ,49,,73,58
+Philadelphia PA,47,100,72,57
+Los Angeles CA,47,85,68,57
+Chicago IL,46,85,66,51
+Minneapolis-St. Paul MN,46,80,66,51
+Houston TX,46,75,65,49
+Detroit MI,46,75,65,48
+Portland OR,45,55,64,48
+Orlando-Daytona Beach-Melbourne FL,45,40,64,47
+San Diego CA,43,35,58,47
+Atlanta GA,42,30,53,47
+Denver CO,42,30,0,46
+Washington DC (Hagerstown MD),40,30,0,45
+Miami-Ft. Lauderdale FL,37,30,0,45
+Portland-Auburn ME,0,30,0,43
+Binghamton NY,0,30,0,41
+Macon GA,0,30,0,40
+Savannah GA,0,25,0,40
+Pittsburgh PA,0,25,0,40
+Ft. Wayne IN,0,20,0,40
+Cleveland-Akron (Canton) OH,0,20,0,39
+Baltimore MD,0,15,0,37
+Flint-Saginaw-Bay City MI,0,15,0,37
+Buffalo NY,0,15,0,36
+Cincinnati OH,0,15,0,35
+Erie PA,0,15,0,34
+Charlotte NC,0,15,0,33
+Greensboro-High Point-Winston Salem NC,0,15,0,33
+Charleston SC,0,,0,0
+Augusta GA,0,,0,0
+Providence RI-New Bedford MA,0,,0,0
+Columbus GA,0,,0,0
+Burlington VT-Plattsburgh NY,0,+100%,0,0
+Albany GA,0,+90%,0,0
+Utica NY,0,+80%,0,0
+Louisville KY,0,+60%,0,0
+Tallahassee FL-Thomasville GA,0,+60%,0,0
+Tri-Cities TN-VA,0,+50%,0,0
+Albany-Schenectady-Troy NY,0,+40%,0,0
+Hartford & New Haven CT,0,+40%,0,0
+Columbus OH,0,+40%,0,0
+Youngstown OH,0,+40%,0,0
+Bangor ME,0,,0,0
+Rochester NY,0,,0,0
+Tampa-St. Petersburg (Sarasota) FL,0,,0,0
+Traverse City-Cadillac MI,0,,0,0
+Lexington KY,0,,0,0
+Dayton OH,0,,0,0
+Springfield-Holyoke MA,0,,0,0
+Norfolk-Portsmouth-Newport News VA,0,,0,0
+Greenville-New Bern-Washington NC,0,,0,0
+Columbia SC,0,,0,0
+Toledo OH,0,,0,0
+West Palm Beach-Ft. Pierce FL,0,,0,0
+Watertown NY,0,,0,0
+Wilmington NC,0,,0,0
+Lansing MI,0,,0,0
+Presque Isle ME,0,,0,0
+Marquette MI,0,,0,0
+Wheeling WV-Steubenville OH,0,,0,0
+Syracuse NY,0,,0,0
+Richmond-Petersburg VA,0,,0,0
+Knoxville TN,0,,0,0
+Lima OH,0,,0,0
+Bluefield-Beckley-Oak Hill WV,0,,0,0
+Raleigh-Durham (Fayetteville) NC,0,,0,0
+Jacksonville FL,0,,0,0
+Grand Rapids-Kalamazoo-Battle Creek MI,0,,0,0
+Charleston-Huntington WV,0,,0,0
+Elmira NY,0,,0,0
+Harrisburg-Lancaster-Lebanon-York PA,0,,0,0
+Greenville-Spartanburg SC-Asheville NC-Anderson SC,0,,0,0
+Harrisonburg VA,0,,0,0
+Florence-Myrtle Beach SC,0,,0,0
+Ft. Myers-Naples FL,0,,0,0
+Roanoke-Lynchburg VA,0,,0,0
+Johnstown-Altoona PA,0,,0,0
+Chattanooga TN,0,,0,0
+Salisbury MD,0,,0,0
+Wilkes Barre-Scranton PA,0,,0,0
+Terre Haute IN,0,,0,0
+Lafayette IN,0,,0,0
+Alpena MI,0,,0,0
+Charlottesville VA,0,,0,0
+South Bend-Elkhart IN,0,,0,0
+Gainesville FL,0,,0,0
+Zanesville OH,0,,0,0
+Parkersburg WV,0,,0,0
+Clarksburg-Weston WV,0,,0,0
+Corpus Christi TX,0,,0,0
+Joplin MO-Pittsburg KS,0,,0,0
+Columbia-Jefferson City MO,0,,0,0
+Topeka KS,0,,0,0
+Dothan AL,0,,0,0
+St. Louis MO,0,,0,0
+Rockford IL,0,,0,0
+Rochester MN-Mason City IA-Austin MN,0,,0,0
+Shreveport LA,0,,0,0
+Kansas City MO,0,,0,0
+Milwaukee WI,0,,0,0
+Springfield MO,0,,0,0
+New Orleans LA,0,,0,0
+Sioux City IA,0,,0,0
+Waco-Temple-Bryan TX,0,,0,0
+Victoria TX,0,,0,0
+Wichita Falls TX & Lawton OK,0,,0,0
+Monroe LA-El Dorado AR,0,,0,0
+Birmingham AL,0,,0,0
+Ottumwa IA-Kirksville MO,0,,0,0
+Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,0,,0,0
+Odessa-Midland TX,0,,0,0
+Amarillo TX,0,,0,0
+Austin TX,0,,0,0
+Harlingen-Weslaco-Brownsville-McAllen TX,0,,0,0
+Cedar Rapids-Waterloo-Iowa City & Dubuque IA,0,,0,0
+St. Joseph MO,0,,0,0
+Jackson TN,0,,0,0
+Memphis TN,0,,0,0
+San Antonio TX,0,,0,0
+Lafayette LA,0,,0,0
+Lake Charles LA,0,,0,0
+Alexandria LA,0,,0,0
+Greenwood-Greenville MS,0,,0,0
+Champaign & Springfield-Decatur IL,0,,0,0
+Evansville IN,0,,0,0
+Oklahoma City OK,0,,0,0
+Lubbock TX,0,,0,0
+Omaha NE,0,,0,0
+Panama City FL,0,,0,0
+Sherman TX-Ada OK,0,,0,0
+Green Bay-Appleton WI,0,,0,0
+Nashville TN,0,,0,0
+San Angelo TX,0,,0,0
+Abilene-Sweetwater TX,0,,0,0
+Madison WI,0,,0,0
+Ft. Smith-Fayetteville-Springdale-Rogers AR,0,,0,0
+Tulsa OK,0,,0,0
+Columbus-Tupelo-West Point MS,0,,0,0
+Peoria-Bloomington IL,0,,0,0
+Duluth MN-Superior WI,0,,0,0
+Wichita-Hutchinson KS,0,,0,0
+Des Moines-Ames IA,0,,0,0
+Davenport IA-Rock Island-Moline IL,0,,0,0
+Mobile AL-Pensacola (Ft. Walton Beach) FL,0,,0,0
+Minot-Bismarck-Dickinson(Williston) ND,0,,0,0
+Huntsville-Decatur (Florence) AL,0,,0,0
+Beaumont-Port Arthur TX,0,,0,0
+Little Rock-Pine Bluff AR,0,,0,0
+Montgomery (Selma) AL,0,,0,0
+La Crosse-Eau Claire WI,0,,0,0
+Wausau-Rhinelander WI,0,,0,0
+Tyler-Longview(Lufkin & Nacogdoches) TX,0,,0,0
+Hattiesburg-Laurel MS,0,,0,0
+Meridian MS,0,,0,0
+Baton Rouge LA,0,,0,0
+Quincy IL-Hannibal MO-Keokuk IA,0,,0,0
+Jackson MS,0,,0,0
+Lincoln & Hastings-Kearney NE,0,,0,0
+Fargo-Valley City ND,0,,0,0
+Sioux Falls(Mitchell) SD,0,,0,0
+Jonesboro AR,0,,0,0
+Bowling Green KY,0,,0,0
+Mankato MN,0,,0,0
+North Platte NE,0,,0,0
+Anchorage AK,0,,0,0
+Honolulu HI,0,,0,0
+Fairbanks AK,0,,0,0
+Biloxi-Gulfport MS,0,,0,0
+Juneau AK,0,,0,0
+Laredo TX,0,,0,0
+Colorado Springs-Pueblo CO,0,,0,0
+Butte-Bozeman MT,0,,0,0
+Great Falls MT,0,,0,0
+Billings MT,0,,0,0
+Boise ID,0,,0,0
+Idaho Falls-Pocatello ID,0,,0,0
+Cheyenne WY-Scottsbluff NE,0,,0,0
+Twin Falls ID,0,,0,0
+Missoula MT,0,,0,0
+Rapid City SD,0,,0,0
+El Paso TX,0,,0,0
+Helena MT,0,,0,0
+Casper-Riverton WY,0,,0,0
+Salt Lake City UT,0,,0,0
+Yuma AZ-El Centro CA,0,,0,0
+Grand Junction-Montrose CO,0,,0,0
+Tucson (Sierra Vista) AZ,0,,0,0
+Albuquerque-Santa Fe NM,0,,0,0
+Glendive MT,0,,0,0
+Bakersfield CA,0,,0,0
+Eugene OR,0,,0,0
+Eureka CA,0,,0,0
+Palm Springs CA,0,,0,0
+Yakima-Pasco-Richland-Kennewick WA,0,,0,0
+Reno NV,0,,0,0
+Medford-Klamath Falls OR,0,,0,0
+Bend OR,0,,0,0
+Monterey-Salinas CA,0,,0,0
+Las Vegas NV,0,,0,0
+Santa Barbara-Santa Maria-San Luis Obispo CA,0,,0,0
+Sacramento-Stockton-Modesto CA,0,,0,0
+Fresno-Visalia CA,0,,0,0
+Chico-Redding CA,0,,0,0
+Spokane WA,0,,0,0
+,,,,
+,,,,
+Top cities for measles,,,,
+City,measles,,MMR vaccine,influenza
+Indianapolis,100,,100,100
+Boston,72,,90,88
+Baltimore,70,,88,86
+Portland,65,,88,65
+Pittsburgh,61,,88,63
+Dallas,59,,87,56
+New York,56,,85,56
+Seattle,55,,85,54
+Minneapolis,54,,81,51
+San Jose,53,,77,49
+San Francisco,53,,76,45
+Philadelphia,52,,74,44
+San Diego,52,,71,43
+Austin,51,,69,43
+Chicago,49,,68,43
+,,,,
+,,,,
+,,,,
+Top searches for measles,,,,
+the measles,100,,100,100
+measles symptoms,100,,35,60
+measles rash,85,,5,60
+measles vaccine,85,,5,55
+mumps,75,,5,50
+measles outbreak,55,,5,45
+chicken pox,55,,5,40
+measles pictures,55,,5,30
+rubella,55,,5,20
+german measles,50,,5,15
+what is measles,40,,5,15
+measles virus,30,,5,15
+symptoms of measles,30,,5,15
+measles mumps rubella,25,,5,15
+red measles,25,,0,15
+mmr,25,,0,10
+what are measles,25,,0,10
+baby measles,20,,0,10
+measles rash pictures,15,,0,10
+measles vaccination,15,,0,10
+measles treatment,15,,0,10
+pictures of measles,15,,0,10
+measles in children,15,,0,10
+mmr vaccine,15,,0,10
+roseola measles,15,,0,10
+roseola,15,,0,10
+measles and mumps,15,,0,10
+chickenpox,15,,0,10
+cdc measles,15,,0,10
+measles in adults,10,,0,10
+smallpox,10,,0,5
+chicken pox pictures,10,,0,5
+measels,10,,0,5
+chicken pox symptoms,10,,0,5
+rubeola,10,,0,5
+rubeola measles,10,,0,5
+mumps symptoms,10,,0,5
+measles shot,10,,0,5
+measles images,10,,0,5
+measles picture,10,,0,5
+measles definition,5,,0,5
+what causes measles,5,,0,5
+symptoms for measles,5,,0,5
+signs of measles,5,,0,5
+treatment for measles,5,,0,5
+measles in babies,5,,0,5
+roseola rash,5,,0,5
+measles in spanish,5,,0,5
+chicken pox vaccine,5,,0,5
+infant measles,5,,0,5
+,,,,
+,,,,
+,,,,
+Rising searches for measles,,,,
+measles outbreak 2013,Breakout,,Breakout,Breakout
+measles in spanish,+130%,,+180%,Breakout
+measles nyc,+130%,,+150%,+150%
+measles in toddlers,+110%,,+150%,+130%
+measles outbreak,+110%,,+100%,+120%
+measles images,+90%,,+80%,+100%
+measles in babies,+90%,,+70%,+90%
+is measles contagious,+80%,,+50%,+70%
+what are measles,+60%,,+50%,+70%
+measles definition,+40%,,+50%,+50%
